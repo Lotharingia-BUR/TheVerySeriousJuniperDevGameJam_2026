@@ -1,15 +1,28 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class QTE_Manager : MonoBehaviour
 {
-    string currentKey;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public string currentKey;
+
+    //we doing csv in a list cause I can...
+    //time to spawn
+    //position x
+    //position y
+    //input
+    //duration
+
+    //if its a mash then have anonther ,
+    //strength of mash
+
+    [Tooltip("TTS,X,Y,Input,")]
+    public List<string> keys;
+
     void Start()
     {
         currentKey = "-";
     }
 
-    // Update is called once per frame
     void Update()
     {
         currentKey = checkKey();

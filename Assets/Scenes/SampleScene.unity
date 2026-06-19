@@ -223,6 +223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4843911122a64148a82a18580cf57e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::QTE_Manager
+  currentKey: 
 --- !u!1 &492525858
 GameObject:
   m_ObjectHideFlags: 0
@@ -636,6 +637,7 @@ GameObject:
   - component: {fileID: 2067341861}
   - component: {fileID: 2067341863}
   - component: {fileID: 2067341862}
+  - component: {fileID: 2067341864}
   m_Layer: 5
   m_Name: Text (TMP)
   m_TagString: Untagged
@@ -762,6 +764,21 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2067341860}
   m_CullTransparentMesh: 1
+--- !u!114 &2067341864
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2067341860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb982da6ccee4f34da311a38cbd087b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Test_QTE_Display
+  QTE_Obj: {fileID: 298287257}
+  displayText: '-'
+  textbox: {fileID: 2067341862}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
