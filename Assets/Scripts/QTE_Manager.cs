@@ -1,9 +1,14 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class QTE_Manager : MonoBehaviour
 {
+    //can be displayed in text
     public string currentKey;
+    public float time;
+
+    private int spawnIndex;
 
     //we doing csv in a list cause I can...
     //time to spawn
@@ -15,18 +20,31 @@ public class QTE_Manager : MonoBehaviour
     //if its a mash then have anonther ,
     //strength of mash
 
-    [Tooltip("TTS,X,Y,Input,")]
-    public List<string> keys;
+    [Tooltip("TTS,X,Y,Input,Duration")]
+    public List<string> QTEList;
+    public string[] spawnData;
 
     void Start()
     {
+        time = 0f;
+        spawnIndex = 0;
         currentKey = "-";
+        spawnData = QTEData(spawnIndex);
+
     }
 
     void Update()
     {
+        
         currentKey = checkKey();
-        print(currentKey);
+        time += Time.deltaTime;
+        print(spawnData[1]);
+    }
+
+
+    string[] QTEData(int index)
+    {
+        return QTEList[spawnIndex].Split(char.Parse(","));
     }
 
     string checkKey()
