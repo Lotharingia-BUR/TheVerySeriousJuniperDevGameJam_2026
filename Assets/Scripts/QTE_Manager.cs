@@ -24,6 +24,9 @@ public class QTE_Manager : MonoBehaviour
     public List<string> QTEList;
     public string[] spawnData;
 
+    //when to spawn next qte
+    private float targetTime;
+
     void Start()
     {
         time = 0f;
@@ -34,11 +37,21 @@ public class QTE_Manager : MonoBehaviour
     }
 
     void Update()
-    {
-        
+    { 
         currentKey = checkKey();
+        if (float.TryParse(spawnData[0], out targetTime)) 
+        {
+            if (time > targetTime)
+            {
+                print("Trigger");
+                spawnIndex += 1;
+                spawnData = QTEData(spawnIndex);
+            }
+        }
+
+
+
         time += Time.deltaTime;
-        print(spawnData[1]);
     }
 
 
