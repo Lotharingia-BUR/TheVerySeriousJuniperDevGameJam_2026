@@ -283,6 +283,7 @@ GameObject:
   - component: {fileID: 298287259}
   - component: {fileID: 298287258}
   - component: {fileID: 298287260}
+  - component: {fileID: 298287261}
   m_Layer: 0
   m_Name: Hamster
   m_TagString: Untagged
@@ -339,7 +340,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 2902271840199455548, guid: 32c3e32f7a853b14fa74d3905393fd34, type: 3}
+  m_Sprite: {fileID: -6387222357825218993, guid: 25e67c6d353b11c4c9292da234f8f998, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -359,7 +360,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0.14992502, y: -0.014992504, z: 0}
-  m_LocalScale: {x: 0.8, y: 0.8, z: 0.8}
+  m_LocalScale: {x: 5, y: 5, z: 5}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -379,11 +380,33 @@ MonoBehaviour:
   currentKey: 
   time: 0
   QTEList:
-  - 1.21,0,0,L,1.00
-  - 2.21,2,1,L,1.250
-  - 3.78,-2,1,L,0.5
+  - 2,5,0,E,10
+  - 5,7,3,W,3
+  - 8.5,-6,-2,A,3
   spawnData: []
   QTEObject: {fileID: 3679601731916652512, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
+--- !u!95 &298287261
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 298287257}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: f020adc589bf4a2448e62853bccd2265, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &492525858
 GameObject:
   m_ObjectHideFlags: 0

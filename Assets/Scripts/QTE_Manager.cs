@@ -56,6 +56,7 @@ public class QTE_Manager : MonoBehaviour
                 spawnedObj = Instantiate(QTEObject, new Vector3(spawnX, spawnY, 0f), Quaternion.identity);
                 spawnedObj.GetComponent<Quick_Time_Event>().type = spawnData[3];
                 spawnedObj.GetComponent<Quick_Time_Event>().timeToDeath = spawnDuration;
+                spawnedObj.GetComponent<Quick_Time_Event>().orginObj = gameObject;
                 //Move up trigger
                 spawnIndex += 1;
                 if (spawnIndex < QTEList.Count)
