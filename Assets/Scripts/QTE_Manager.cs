@@ -33,6 +33,7 @@ public class QTE_Manager : MonoBehaviour
 
     private GameObject spawnedObj;
     private float spawnDuration;
+    private float spawnStrength;
 
     void Start()
     {
@@ -48,7 +49,12 @@ public class QTE_Manager : MonoBehaviour
         currentKey = checkKey();
         if (float.TryParse(spawnData[0], out targetTime) && spawnIndex < QTEList.Count) 
         {
-            if (float.TryParse(spawnData[1], out spawnX) && float.TryParse(spawnData[2], out spawnY) && float.TryParse(spawnData[4], out spawnDuration))
+            if (float.TryParse(spawnData[1], out spawnX) 
+                && float.TryParse(spawnData[2], out spawnY) 
+                && float.TryParse(spawnData[4], out spawnDuration))
+            {
+
+            }
             if (time > targetTime)
             {
                 //Spawn QTE
