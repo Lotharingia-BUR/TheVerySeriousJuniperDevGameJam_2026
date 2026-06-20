@@ -379,10 +379,11 @@ MonoBehaviour:
   currentKey: 
   time: 0
   QTEList:
-  - 1.21,10,10,L,3.00
-  - 4.21,10,10,L,3.00
-  - 7.78,10,10,L,3.00
+  - 1.21,0,0,L,1.00
+  - 2.21,2,1,L,1.250
+  - 3.78,-2,1,L,0.5
   spawnData: []
+  QTEObject: {fileID: 3679601731916652512, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
 --- !u!1 &492525858
 GameObject:
   m_ObjectHideFlags: 0
