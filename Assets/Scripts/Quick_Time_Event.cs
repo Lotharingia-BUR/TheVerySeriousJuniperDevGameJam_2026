@@ -53,8 +53,7 @@ public class Quick_Time_Event : MonoBehaviour
         //Check to see if current key matches type
         if (type == orginObj.GetComponent<QTE_Manager>().currentKey && isSuccess)
         {
-            print("!Hit!");
-            Destroy(gameObject);
+            victory();
         } else if (type != orginObj.GetComponent<QTE_Manager>().currentKey && orginObj.GetComponent<QTE_Manager>().currentKey != "-"
                 || orginObj.GetComponent<QTE_Manager>().currentKey != "-" && !isSuccess)
         {
@@ -66,6 +65,8 @@ public class Quick_Time_Event : MonoBehaviour
         {
             failure();
         }
+
+        // Code Animations
         outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * 4);
         outerRing.transform.Rotate(new Vector3 (0f,0f,1f) *  (100 * Time.deltaTime));
         time += Time.deltaTime; 
@@ -78,9 +79,17 @@ public class Quick_Time_Event : MonoBehaviour
         }
     }
 
+    void victory()
+    {
+        print("!Hit!");
+        qteController.SetInteger("isWin", 1);
+        Destroy(gameObject, .5f);
+    }
+
     void failure()
     {
         print("!fail!");
-        Destroy(gameObject);
+        qteController.SetInteger("isWin", -1);
+        Destroy(gameObject, .5f);
     }
 }

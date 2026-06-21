@@ -299,6 +299,7 @@ MonoBehaviour:
   typeE: {fileID: -7471057507282131891, guid: 9100c013e97f3dd4ca1c05382650027f, type: 3}
   outerRing: {fileID: 3107621337715762561}
   innerRing: {fileID: 2198255465631534784}
+  qteController: {fileID: 5926138828610199832}
 --- !u!95 &5926138828610199832
 Animator:
   serializedVersion: 7

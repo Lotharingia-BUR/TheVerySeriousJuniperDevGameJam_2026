@@ -346,7 +346,7 @@ GameObject:
   - component: {fileID: 298287260}
   - component: {fileID: 298287261}
   m_Layer: 0
-  m_Name: Hamster
+  m_Name: Video Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -401,7 +401,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -1883424456444024841, guid: dca63f13be130074e84f7165cf8f049a, type: 3}
+  m_Sprite: {fileID: 2515554958075908961, guid: 8bbc5b345e4478a41ba36647afb07124, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -421,7 +421,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 6, y: 6, z: 6}
+  m_LocalScale: {x: 7, y: 7, z: 7}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -441,7 +441,7 @@ MonoBehaviour:
   currentKey: 
   time: 0
   QTEList:
-  - 6,5,0,D,1,2
+  - 6,5,0,D,1
   - 8,0,3,E,1
   - 9,-6,0,A,1
   - 10,3,-1,S,1
