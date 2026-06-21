@@ -195,7 +195,7 @@ GameObject:
   - component: {fileID: 8544323242917652357}
   - component: {fileID: 5926138828610199832}
   m_Layer: 0
-  m_Name: QTE
+  m_Name: QTE 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
