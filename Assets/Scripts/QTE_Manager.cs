@@ -27,6 +27,7 @@ public class QTE_Manager : MonoBehaviour
     //when to spawn next qte
     private float targetTime;
     public GameObject QTEObject;
+    public GameObject QTEMashObject;
 
     private float spawnX;
     private float spawnY;
@@ -59,7 +60,14 @@ public class QTE_Manager : MonoBehaviour
             {
                 //Spawn QTE
                 print("Trigger");
-                spawnedObj = Instantiate(QTEObject, new Vector3(spawnX, spawnY, 0f), Quaternion.identity);
+                if(spawnData.Length <= 5)
+                {
+                    spawnedObj = Instantiate(QTEObject, new Vector3(spawnX, spawnY, 0f), Quaternion.identity);
+                    
+                } else
+                {
+                    spawnedObj = Instantiate(QTEMashObject, new Vector3(spawnX, spawnY, 0f), Quaternion.identity);
+                }
                 spawnedObj.GetComponent<Quick_Time_Event>().type = spawnData[3];
                 spawnedObj.GetComponent<Quick_Time_Event>().timeToDeath = spawnDuration;
                 spawnedObj.GetComponent<Quick_Time_Event>().orginObj = gameObject;

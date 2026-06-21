@@ -16,11 +16,15 @@ public class Quick_Time_Event : MonoBehaviour
 
     public GameObject outerRing;
     public GameObject innerRing;
+    public Animator qteController;
+
+    private bool isSuccess;
 
     private float time;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        isSuccess = false;
         if (type == "A")
         {
             GetComponent<SpriteRenderer>().sprite = typeA;
@@ -47,11 +51,12 @@ public class Quick_Time_Event : MonoBehaviour
     void Update()
     {
         //Check to see if current key matches type
-        if (type == orginObj.GetComponent<QTE_Manager>().currentKey)
+        if (type == orginObj.GetComponent<QTE_Manager>().currentKey && isSuccess)
         {
             print("!Hit!");
             Destroy(gameObject);
-        } else if (type != orginObj.GetComponent<QTE_Manager>().currentKey && orginObj.GetComponent<QTE_Manager>().currentKey != "-")
+        } else if (type != orginObj.GetComponent<QTE_Manager>().currentKey && orginObj.GetComponent<QTE_Manager>().currentKey != "-"
+                || orginObj.GetComponent<QTE_Manager>().currentKey != "-" && !isSuccess)
         {
             failure();
         }
@@ -69,6 +74,7 @@ public class Quick_Time_Event : MonoBehaviour
         if (outerRing.transform.localScale.x < innerRing.transform.localScale.x)
         {
             outerRing.GetComponent<SpriteRenderer>().color = Color.green;
+            isSuccess = true;
         }
     }
 
