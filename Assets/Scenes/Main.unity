@@ -119,67 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &209713288
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 3679601731916652512, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_Name
-      value: QTE
-      objectReference: {fileID: 0}
-    - target: {fileID: 3679601731916652512, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5261102589410943117, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5261102589410943117, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5261102589410943117, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5261102589410943117, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5261102589410943117, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5261102589410943117, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5261102589410943117, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5261102589410943117, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5261102589410943117, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5261102589410943117, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
 --- !u!1 &256200507
 GameObject:
   m_ObjectHideFlags: 0
@@ -441,15 +380,15 @@ MonoBehaviour:
   currentKey: 
   time: 0
   QTEList:
-  - 6,5,0,D,8,1
+  - 6,5,0,D,1
   - 8,0,3,E,1
-  - 9,-6,0,A,1
-  - 10,3,-1,S,1
-  - 11,3,2,W,1
-  - 12,-3,-1,D,1
-  - 13,-3,-2,S,1
-  - 17,-4,-2,A,1
-  - 21,4,-1,S,1
+  - 9,-6,0,A,3,3
+  - 12,3,-1,S,1
+  - 13,3,2,W,1
+  - 14,-3,-1,D,1
+  - 15,-3,-2,S,1
+  - 19,-4,-2,A,1
+  - 23,4,-1,S,1
   spawnData: []
   QTEObject: {fileID: 3679601731916652512, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
   QTEMashObject: {fileID: 3679601731916652512, guid: c812515a22a28fa46905c0c03fc94ccd, type: 3}
@@ -1040,4 +979,3 @@ SceneRoots:
   - {fileID: 298287259}
   - {fileID: 1963388601}
   - {fileID: 492525861}
-  - {fileID: 209713288}

@@ -59,7 +59,7 @@ public class QTE_Manager : MonoBehaviour
             if (time > targetTime)
             {
                 //Spawn QTE
-                print("Trigger");
+                print("Trigger " + targetTime);
                 if(spawnData.Length <= 5)
                 {
                     spawnedObj = Instantiate(QTEObject, new Vector3(spawnX, spawnY, 0f), Quaternion.identity);
@@ -69,10 +69,16 @@ public class QTE_Manager : MonoBehaviour
 
                 } else
                 {
+                    
                     spawnedObj = Instantiate(QTEMashObject, new Vector3(spawnX, spawnY, 0f), Quaternion.identity);
                     spawnedObj.GetComponent<Quick_Mash_Event>().type = spawnData[3];
                     spawnedObj.GetComponent<Quick_Mash_Event>().timeToDeath = spawnDuration;
                     spawnedObj.GetComponent<Quick_Mash_Event>().orginObj = gameObject;
+                    if (float.TryParse(spawnData[5], out spawnStrength))
+                    {
+                        spawnedObj.GetComponent<Quick_Mash_Event>().strength = spawnStrength;
+                    }
+                    
                 }
                 
                 //Move up trigger

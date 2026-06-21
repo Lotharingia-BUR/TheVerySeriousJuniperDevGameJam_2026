@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Quick_Mash_Event : MonoBehaviour
@@ -5,6 +6,7 @@ public class Quick_Mash_Event : MonoBehaviour
     [Header("Inhertied Data")]
     public string type;
     public float timeToDeath;
+    public float strength;
     public GameObject orginObj;
 
     [Header("QTE Sprites")]
@@ -19,13 +21,10 @@ public class Quick_Mash_Event : MonoBehaviour
     public GameObject innerRing;
     public Animator qteController;
 
-    private bool isSuccess;
-
     private float time;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        isSuccess = true;
         if (type == "A")
         {
             GetComponent<SpriteRenderer>().sprite = typeA;
@@ -52,32 +51,29 @@ public class Quick_Mash_Event : MonoBehaviour
     void Update()
     {
         //Check to see if current key matches type
-        if (type == orginObj.GetComponent<QTE_Manager>().currentKey && isSuccess)
+        if (type == orginObj.GetComponent<QTE_Manager>().currentKey)
         {
-            outerRing.transform.localScale += Vector3.one * (Time.deltaTime * 300);
-        } else if (type != orginObj.GetComponent<QTE_Manager>().currentKey && orginObj.GetComponent<QTE_Manager>().currentKey != "-"
-                || orginObj.GetComponent<QTE_Manager>().currentKey != "-" && !isSuccess)
+            outerRing.transform.localScale += Vector3.one * 1;
+        }
+        if (outerRing.transform.localScale.x > innerRing.transform.localScale.x)
         {
-           // failure();
+            victory();
         }
 
-        //Expire if time past
-        if(timeToDeath < time)
+            //Expire if time past
+        if (timeToDeath < time)
         {
-            //failure();
+            failure();
         }
 
         // Code Animations
-        outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * 1);
+        if (outerRing.transform.localScale.x > 3.5)
+        {
+            outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * strength);
+        }
+        
         outerRing.transform.Rotate(new Vector3 (0f,0f,1f) *  (100 * Time.deltaTime));
         time += Time.deltaTime; 
-
-        //Change colour
-        if (outerRing.transform.localScale.x < innerRing.transform.localScale.x)
-        {
-            outerRing.GetComponent<SpriteRenderer>().color = Color.green;
-            isSuccess = true;
-        }
     }
 
     void victory()

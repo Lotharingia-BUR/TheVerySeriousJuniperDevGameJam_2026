@@ -68,7 +68,7 @@ public class Quick_Time_Event : MonoBehaviour
         }
 
         // Code Animations
-        outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * 4);
+        outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * 4/timeToDeath);
         outerRing.transform.Rotate(new Vector3 (0f,0f,1f) *  (100 * Time.deltaTime));
         time += Time.deltaTime; 
 
