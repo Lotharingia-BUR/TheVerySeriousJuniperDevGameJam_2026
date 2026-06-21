@@ -14,6 +14,9 @@ public class Quick_Time_Event : MonoBehaviour
     public Sprite typeS;
     public Sprite typeE;
 
+    public GameObject outerRing;
+    public GameObject innerRing;
+
     private float time;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -58,7 +61,15 @@ public class Quick_Time_Event : MonoBehaviour
         {
             failure();
         }
+        outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * 4);
+        outerRing.transform.Rotate(new Vector3 (0f,0f,1f) *  (100 * Time.deltaTime));
         time += Time.deltaTime; 
+
+        //Change colour
+        if (outerRing.transform.localScale.x < innerRing.transform.localScale.x)
+        {
+            outerRing.GetComponent<SpriteRenderer>().color = Color.green;
+        }
     }
 
     void failure()
