@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Quick_Time_Event : MonoBehaviour
+public class Quick_Mash_Event : MonoBehaviour
 {
     [Header("Inhertied Data")]
     public string type;
@@ -25,7 +25,7 @@ public class Quick_Time_Event : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        isSuccess = false;
+        isSuccess = true;
         if (type == "A")
         {
             GetComponent<SpriteRenderer>().sprite = typeA;
@@ -54,21 +54,21 @@ public class Quick_Time_Event : MonoBehaviour
         //Check to see if current key matches type
         if (type == orginObj.GetComponent<QTE_Manager>().currentKey && isSuccess)
         {
-            victory();
+            outerRing.transform.localScale += Vector3.one * (Time.deltaTime * 300);
         } else if (type != orginObj.GetComponent<QTE_Manager>().currentKey && orginObj.GetComponent<QTE_Manager>().currentKey != "-"
                 || orginObj.GetComponent<QTE_Manager>().currentKey != "-" && !isSuccess)
         {
-            failure();
+           // failure();
         }
 
         //Expire if time past
         if(timeToDeath < time)
         {
-            failure();
+            //failure();
         }
 
         // Code Animations
-        outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * 4);
+        outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * 1);
         outerRing.transform.Rotate(new Vector3 (0f,0f,1f) *  (100 * Time.deltaTime));
         time += Time.deltaTime; 
 

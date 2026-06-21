@@ -27,7 +27,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.5, y: 3.5, z: 1}
+  m_LocalScale: {x: 6, y: 6, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5261102589410943117}
@@ -118,7 +118,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 6, y: 6, z: 1}
+  m_LocalScale: {x: 3.5, y: 3.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 5261102589410943117}
@@ -172,7 +172,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 2
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 21300000, guid: f078ed4c291e3cc4aae5e15c36c0d07c, type: 3}
+  m_Sprite: {fileID: -5477203589114949318, guid: 827955cfa19f8674695ac3dc9621088e, type: 3}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -192,10 +192,10 @@ GameObject:
   m_Component:
   - component: {fileID: 5261102589410943117}
   - component: {fileID: 1121131837095343033}
-  - component: {fileID: 8544323242917652357}
   - component: {fileID: 5926138828610199832}
+  - component: {fileID: 7903568888280300251}
   m_Layer: 0
-  m_Name: QTE 1
+  m_Name: QTE_Mash
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -277,28 +277,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!114 &8544323242917652357
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3679601731916652512}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e2fa49f66e395e3419be972423a0ab99, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Quick_Time_Event
-  type: 
-  timeToDeath: 0
-  orginObj: {fileID: 0}
-  typeA: {fileID: 8855964598952731768, guid: 6a8ab8c94cf15af4e885be4eccfc497c, type: 3}
-  typeD: {fileID: -1162569161695696328, guid: e6f634c2ee8ddee48931bf5f3a70db38, type: 3}
-  typeW: {fileID: 7590259295959806165, guid: d5591e9b43d027043b3f63011b592db3, type: 3}
-  typeS: {fileID: 4837915744532966215, guid: 4c5f564104567b94e8c44543f46b8d44, type: 3}
-  typeE: {fileID: -7471057507282131891, guid: 9100c013e97f3dd4ca1c05382650027f, type: 3}
-  outerRing: {fileID: 3107621337715762561}
-  innerRing: {fileID: 2198255465631534784}
 --- !u!95 &5926138828610199832
 Animator:
   serializedVersion: 7
@@ -321,3 +299,26 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7903568888280300251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3679601731916652512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c04aa32df1340c4ab99ab14ef2c0a34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Quick_Mash_Event
+  type: 
+  timeToDeath: 0
+  orginObj: {fileID: 0}
+  typeA: {fileID: 8855964598952731768, guid: 6a8ab8c94cf15af4e885be4eccfc497c, type: 3}
+  typeD: {fileID: -1162569161695696328, guid: e6f634c2ee8ddee48931bf5f3a70db38, type: 3}
+  typeW: {fileID: 7590259295959806165, guid: d5591e9b43d027043b3f63011b592db3, type: 3}
+  typeS: {fileID: 4837915744532966215, guid: 4c5f564104567b94e8c44543f46b8d44, type: 3}
+  typeE: {fileID: -7471057507282131891, guid: 9100c013e97f3dd4ca1c05382650027f, type: 3}
+  outerRing: {fileID: 3107621337715762561}
+  innerRing: {fileID: 2198255465631534784}
+  qteController: {fileID: 5926138828610199832}

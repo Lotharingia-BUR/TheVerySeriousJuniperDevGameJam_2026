@@ -63,14 +63,18 @@ public class QTE_Manager : MonoBehaviour
                 if(spawnData.Length <= 5)
                 {
                     spawnedObj = Instantiate(QTEObject, new Vector3(spawnX, spawnY, 0f), Quaternion.identity);
-                    
+                    spawnedObj.GetComponent<Quick_Time_Event>().type = spawnData[3];
+                    spawnedObj.GetComponent<Quick_Time_Event>().timeToDeath = spawnDuration;
+                    spawnedObj.GetComponent<Quick_Time_Event>().orginObj = gameObject;
+
                 } else
                 {
                     spawnedObj = Instantiate(QTEMashObject, new Vector3(spawnX, spawnY, 0f), Quaternion.identity);
+                    spawnedObj.GetComponent<Quick_Mash_Event>().type = spawnData[3];
+                    spawnedObj.GetComponent<Quick_Mash_Event>().timeToDeath = spawnDuration;
+                    spawnedObj.GetComponent<Quick_Mash_Event>().orginObj = gameObject;
                 }
-                spawnedObj.GetComponent<Quick_Time_Event>().type = spawnData[3];
-                spawnedObj.GetComponent<Quick_Time_Event>().timeToDeath = spawnDuration;
-                spawnedObj.GetComponent<Quick_Time_Event>().orginObj = gameObject;
+                
                 //Move up trigger
                 spawnIndex += 1;
                 if (spawnIndex < QTEList.Count)
