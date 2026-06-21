@@ -67,7 +67,7 @@ public class Quick_Mash_Event : MonoBehaviour
         }
 
         // Code Animations
-        if (outerRing.transform.localScale.x > 3.5)
+        if (outerRing.transform.localScale.x > 2.5)
         {
             outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * strength);
         }
