@@ -79,7 +79,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 50
   m_MaskInteraction: 0
   m_Sprite: {fileID: -5477203589114949318, guid: 827955cfa19f8674695ac3dc9621088e, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -170,7 +170,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 51
   m_MaskInteraction: 0
   m_Sprite: {fileID: -5477203589114949318, guid: 827955cfa19f8674695ac3dc9621088e, type: 3}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
@@ -265,7 +265,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 53
   m_MaskInteraction: 0
   m_Sprite: {fileID: 7590259295959806165, guid: d5591e9b43d027043b3f63011b592db3, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -313,6 +313,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Quick_Mash_Event
   type: 
   timeToDeath: 0
+  strength: 0
   orginObj: {fileID: 0}
   typeA: {fileID: 8855964598952731768, guid: 6a8ab8c94cf15af4e885be4eccfc497c, type: 3}
   typeD: {fileID: -1162569161695696328, guid: e6f634c2ee8ddee48931bf5f3a70db38, type: 3}
