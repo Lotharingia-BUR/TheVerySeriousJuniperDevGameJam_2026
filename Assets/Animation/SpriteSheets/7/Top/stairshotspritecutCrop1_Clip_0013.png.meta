@@ -1,43 +1,67 @@
 fileFormatVersion: 2
-guid: a5aacfea73732064b875be4c113e7003
+guid: 29517cefd4e4e6d4282952477042ea63
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7637588740618303777
-    second: vacuum_0
+      213: 496555267952514163
+    second: stairshotspritecutCrop1_Clip_0013_0
   - first:
-      213: -2345073449404506672
-    second: vacuum_1
+      213: -54502104949662598
+    second: stairshotspritecutCrop1_Clip_0013_1
   - first:
-      213: -4884881348718744352
-    second: vacuum_2
+      213: -1977176768711567329
+    second: stairshotspritecutCrop1_Clip_0013_2
   - first:
-      213: -96568907952058633
-    second: vacuum_3
+      213: -5375798725979616919
+    second: stairshotspritecutCrop1_Clip_0013_3
   - first:
-      213: 4820962233014875590
-    second: vacuum_4
+      213: 5027420824205816267
+    second: stairshotspritecutCrop1_Clip_0013_4
   - first:
-      213: -2875496638972654313
-    second: vacuum_5
+      213: 4469488598328438607
+    second: stairshotspritecutCrop1_Clip_0013_5
   - first:
-      213: 278057775515200662
-    second: vacuum_6
+      213: -1466277622399508054
+    second: stairshotspritecutCrop1_Clip_0013_6
   - first:
-      213: 1547048415519441610
-    second: vacuum_7
+      213: 7688862018652071703
+    second: stairshotspritecutCrop1_Clip_0013_7
   - first:
-      213: 5444784976728196011
-    second: vacuum_8
+      213: -542884468758614276
+    second: stairshotspritecutCrop1_Clip_0013_8
   - first:
-      213: -4587407864809661162
-    second: vacuum_9
+      213: -5489727361910980540
+    second: stairshotspritecutCrop1_Clip_0013_9
   - first:
-      213: -6493664111258969422
-    second: vacuum_10
+      213: 4744071157279322949
+    second: stairshotspritecutCrop1_Clip_0013_10
   - first:
-      213: 7797742285187834062
-    second: vacuum_11
+      213: 4681504549408810039
+    second: stairshotspritecutCrop1_Clip_0013_11
+  - first:
+      213: -461487257146827673
+    second: stairshotspritecutCrop1_Clip_0013_12
+  - first:
+      213: 6307122404596311516
+    second: stairshotspritecutCrop1_Clip_0013_13
+  - first:
+      213: 586468055659734762
+    second: stairshotspritecutCrop1_Clip_0013_14
+  - first:
+      213: -8443548760075856794
+    second: stairshotspritecutCrop1_Clip_0013_15
+  - first:
+      213: 5353085248521773344
+    second: stairshotspritecutCrop1_Clip_0013_16
+  - first:
+      213: 2353835792803273312
+    second: stairshotspritecutCrop1_Clip_0013_17
+  - first:
+      213: -2692692904096436002
+    second: stairshotspritecutCrop1_Clip_0013_18
+  - first:
+      213: 9120658483307593328
+    second: stairshotspritecutCrop1_Clip_0013_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -146,12 +170,166 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: vacuum_0
+      name: stairshotspritecutCrop1_Clip_0013_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9720
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37498a5a26e14e600800000000000000
+      internalID: 496555267952514163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0013_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8640
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cd6f2df9e5e3ff0800000000000000
+      internalID: -54502104949662598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0013_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7560
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18dac25438af84e0800000000000000
+      internalID: -1977176768711567329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0013_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ccf97a835565b0800000000000000
+      internalID: -5375798725979616919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0013_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1703b6a9cf4c540800000000000000
+      internalID: 5027420824205816267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0013_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f66072330d60e30800000000000000
+      internalID: 4469488598328438607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0013_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1e5c6654cb6abe0800000000000000
+      internalID: -1466277622399508054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0013_7
       rect:
         serializedVersion: 2
         x: 0
         y: 2160
-        width: 1920
+        width: 3840
         height: 1080
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -161,85 +339,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 129b3117e7a2ef960800000000000000
-      internalID: 7637588740618303777
+      spriteID: 717efb4c44354ba60800000000000000
+      internalID: 7688862018652071703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_1
-      rect:
-        serializedVersion: 2
-        x: 1920
-        y: 2160
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0dd5b0c5f10a47fd0800000000000000
-      internalID: -2345073449404506672
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vacuum_2
-      rect:
-        serializedVersion: 2
-        x: 3840
-        y: 2160
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0ec20b76b4a653cb0800000000000000
-      internalID: -4884881348718744352
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vacuum_3
-      rect:
-        serializedVersion: 2
-        x: 5760
-        y: 2160
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7fe8b21071be8aef0800000000000000
-      internalID: -96568907952058633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vacuum_4
+      name: stairshotspritecutCrop1_Clip_0013_8
       rect:
         serializedVersion: 2
         x: 0
         y: 1080
-        width: 1920
+        width: 3840
         height: 1080
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -249,85 +361,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6c5fc6ebb9f77e240800000000000000
-      internalID: 4820962233014875590
+      spriteID: cfee095b3794778f0800000000000000
+      internalID: -542884468758614276
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_5
-      rect:
-        serializedVersion: 2
-        x: 1920
-        y: 1080
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 71d8439ba0f2818d0800000000000000
-      internalID: -2875496638972654313
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vacuum_6
-      rect:
-        serializedVersion: 2
-        x: 3840
-        y: 1080
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 69c6e98d21cdbd300800000000000000
-      internalID: 278057775515200662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vacuum_7
-      rect:
-        serializedVersion: 2
-        x: 5760
-        y: 1080
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac20e595658387510800000000000000
-      internalID: 1547048415519441610
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vacuum_8
+      name: stairshotspritecutCrop1_Clip_0013_9
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
+        width: 3840
         height: 1080
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -337,74 +383,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba38440b613cf8b40800000000000000
-      internalID: 5444784976728196011
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vacuum_9
-      rect:
-        serializedVersion: 2
-        x: 1920
-        y: 0
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61ddf222ad04650c0800000000000000
-      internalID: -4587407864809661162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vacuum_10
-      rect:
-        serializedVersion: 2
-        x: 3840
-        y: 0
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2bad4bd45eed1e5a0800000000000000
-      internalID: -6493664111258969422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: vacuum_11
-      rect:
-        serializedVersion: 2
-        x: 5760
-        y: 0
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec0e9ae4b45273c60800000000000000
-      internalID: 7797742285187834062
+      spriteID: 440cd87dc0290d3b0800000000000000
+      internalID: -5489727361910980540
       vertices: []
       indices: 
       edges: []
@@ -413,7 +393,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 67eba0e5c0579b147b5f0a06dca7e402
+    spriteID: 6ca26079c8f275a4fab64381399e0942
     internalID: 0
     vertices: []
     indices: 
@@ -423,20 +403,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":3.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":10.0},"gridSpriteSize":{"x":3840.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      vacuum_0: 7637588740618303777
-      vacuum_1: -2345073449404506672
-      vacuum_10: -6493664111258969422
-      vacuum_11: 7797742285187834062
-      vacuum_2: -4884881348718744352
-      vacuum_3: -96568907952058633
-      vacuum_4: 4820962233014875590
-      vacuum_5: -2875496638972654313
-      vacuum_6: 278057775515200662
-      vacuum_7: 1547048415519441610
-      vacuum_8: 5444784976728196011
-      vacuum_9: -4587407864809661162
+      stairshotspritecutCrop1_Clip_0013_0: 496555267952514163
+      stairshotspritecutCrop1_Clip_0013_1: -54502104949662598
+      stairshotspritecutCrop1_Clip_0013_2: -1977176768711567329
+      stairshotspritecutCrop1_Clip_0013_3: -5375798725979616919
+      stairshotspritecutCrop1_Clip_0013_4: 5027420824205816267
+      stairshotspritecutCrop1_Clip_0013_5: 4469488598328438607
+      stairshotspritecutCrop1_Clip_0013_6: -1466277622399508054
+      stairshotspritecutCrop1_Clip_0013_7: 7688862018652071703
+      stairshotspritecutCrop1_Clip_0013_8: -542884468758614276
+      stairshotspritecutCrop1_Clip_0013_9: -5489727361910980540
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

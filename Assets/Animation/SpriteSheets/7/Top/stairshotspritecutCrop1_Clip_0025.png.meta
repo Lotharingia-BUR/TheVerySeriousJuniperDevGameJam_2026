@@ -1,22 +1,49 @@
 fileFormatVersion: 2
-guid: c6e7bbc9e403f61469ffa6bf377b1052
+guid: 7699ec8e1090cc94da6cd8c2602d9896
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2791740936369104197
-    second: failure2_0
+      213: 6512469025637844196
+    second: stairshotspritecutCrop1_Clip_0025_0
   - first:
-      213: -5794335939393703087
-    second: failure2_1
+      213: 1055387630971709786
+    second: stairshotspritecutCrop1_Clip_0025_1
   - first:
-      213: 7217825222463439793
-    second: failure2_2
+      213: -2182008663051235863
+    second: stairshotspritecutCrop1_Clip_0025_2
   - first:
-      213: 4081375893714370809
-    second: failure2_3
+      213: -8542150258098127755
+    second: stairshotspritecutCrop1_Clip_0025_3
   - first:
-      213: 5097265764005936137
-    second: failure2_4
+      213: -4445548914507724848
+    second: stairshotspritecutCrop1_Clip_0025_4
+  - first:
+      213: -1895505120080186984
+    second: stairshotspritecutCrop1_Clip_0025_5
+  - first:
+      213: -7186737839011527897
+    second: stairshotspritecutCrop1_Clip_0025_6
+  - first:
+      213: 7642628670322761234
+    second: stairshotspritecutCrop1_Clip_0025_7
+  - first:
+      213: -1361566938188582550
+    second: stairshotspritecutCrop1_Clip_0025_8
+  - first:
+      213: 672518672410688406
+    second: stairshotspritecutCrop1_Clip_0025_9
+  - first:
+      213: 1270067664708586056
+    second: stairshotspritecutCrop1_Clip_0025_10
+  - first:
+      213: -8944806817263424133
+    second: stairshotspritecutCrop1_Clip_0025_11
+  - first:
+      213: 1331750582941700735
+    second: stairshotspritecutCrop1_Clip_0025_12
+  - first:
+      213: -3414943051966437854
+    second: stairshotspritecutCrop1_Clip_0025_13
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -125,12 +152,232 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: failure2_0
+      name: stairshotspritecutCrop1_Clip_0025_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14040
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4c0e30310f06a50800000000000000
+      internalID: 6512469025637844196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0025_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12960
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59e86c657d75ae00800000000000000
+      internalID: 1055387630971709786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0025_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11880
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed81068ea2f7b1e0800000000000000
+      internalID: -2182008663051235863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0025_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10800
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cbc08399f247980800000000000000
+      internalID: -8542150258098127755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0025_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9720
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7c427d0dc3e42c0800000000000000
+      internalID: -4445548914507724848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0025_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8640
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891bfa7d220d1b5e0800000000000000
+      internalID: -1895505120080186984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0025_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7560
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7230cdb2304934c90800000000000000
+      internalID: -7186737839011527897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0025_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21eddc48842101a60800000000000000
+      internalID: 7642628670322761234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0025_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a617a57651eba1de0800000000000000
+      internalID: -1361566938188582550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0025_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b3bdd5b24455900800000000000000
+      internalID: 672518672410688406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stairshotspritecutCrop1_Clip_0025_10
       rect:
         serializedVersion: 2
         x: 0
         y: 3240
-        width: 1920
+        width: 3840
         height: 1080
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -138,109 +385,21 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bba9dced86eb149d0800000000000000
-      internalID: -2791740936369104197
+      spriteID: b2f90d6d1c5045e4ba29e59844df2210
+      internalID: 2008619997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: failure2_1
-      rect:
-        serializedVersion: 2
-        x: 1920
-        y: 3240
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 153b82fa922669fa0800000000000000
-      internalID: -5794335939393703087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_2
-      rect:
-        serializedVersion: 2
-        x: 3840
-        y: 3240
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b3c9c35ccdda2460800000000000000
-      internalID: 7217825222463439793
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_3
-      rect:
-        serializedVersion: 2
-        x: 5760
-        y: 3240
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f000b350c5f3a830800000000000000
-      internalID: 4081375893714370809
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_4
-      rect:
-        serializedVersion: 2
-        x: 7680
-        y: 3240
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90c7555b4302db640800000000000000
-      internalID: 5097265764005936137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_5
+      name: stairshotspritecutCrop1_Clip_0025_11
       rect:
         serializedVersion: 2
         x: 0
         y: 2160
-        width: 1920
+        width: 3840
         height: 1080
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -250,107 +409,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 33cc735ef0bc1134c80390377cc22b45
-      internalID: 351757539
+      spriteID: ff2409589142c6148adca77f46f62ea5
+      internalID: -1783879130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: failure2_6
-      rect:
-        serializedVersion: 2
-        x: 1920
-        y: 2160
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17419140fbc5a2748ab64feb222a3d2e
-      internalID: 1792510632
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_7
-      rect:
-        serializedVersion: 2
-        x: 3840
-        y: 2160
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: af3fe3fca58ce7b4d87807bd1fe10d2b
-      internalID: 2002442224
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_8
-      rect:
-        serializedVersion: 2
-        x: 5760
-        y: 2160
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40091c942b2e57c4a8d2cf1e4eeeef04
-      internalID: 1296449936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_9
-      rect:
-        serializedVersion: 2
-        x: 7680
-        y: 2160
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ad7c5118964b106469f61897ea1cb001
-      internalID: 592788027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_10
+      name: stairshotspritecutCrop1_Clip_0025_12
       rect:
         serializedVersion: 2
         x: 0
         y: 1080
-        width: 1920
+        width: 3840
         height: 1080
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -360,107 +431,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32068144456479b44a7e554e3bae2ca0
-      internalID: 849044356
+      spriteID: ad8cea15871301f43a908c5e391d179f
+      internalID: -418116386
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: failure2_11
-      rect:
-        serializedVersion: 2
-        x: 1920
-        y: 1080
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77ec7442293e4624595895fb32dd4981
-      internalID: 231383859
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_12
-      rect:
-        serializedVersion: 2
-        x: 3840
-        y: 1080
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a294f45acadf52479719532d11bb8e9
-      internalID: 1388871109
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_13
-      rect:
-        serializedVersion: 2
-        x: 5760
-        y: 1080
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7a360df24cb75d418e02e7064a4b419
-      internalID: 382937019
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_14
-      rect:
-        serializedVersion: 2
-        x: 7680
-        y: 1080
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b18be2047b5559c43bde062c298356dd
-      internalID: -1801824851
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_15
+      name: stairshotspritecutCrop1_Clip_0025_13
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
+        width: 3840
         height: 1080
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -470,96 +453,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8d5361c3d2bcfd74ba538e3245364582
-      internalID: -511131162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_16
-      rect:
-        serializedVersion: 2
-        x: 1920
-        y: 0
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4cb6751541dcd9d4ab2f56845dc2e9d1
-      internalID: 1328684743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_17
-      rect:
-        serializedVersion: 2
-        x: 3840
-        y: 0
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c66d9cb092a693f449ee8f8505d86c5e
-      internalID: -536142255
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_18
-      rect:
-        serializedVersion: 2
-        x: 5760
-        y: 0
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f2544c9937cbcc547a714320b0be6cea
-      internalID: -191368960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: failure2_19
-      rect:
-        serializedVersion: 2
-        x: 7680
-        y: 0
-        width: 1920
-        height: 1080
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 79ccb9ba78077914ab41e518aa31d1c3
-      internalID: -286054684
+      spriteID: de0d8dacd8ef9684db737d1f25815fe3
+      internalID: 1497247783
       vertices: []
       indices: 
       edges: []
@@ -568,7 +463,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 4bcd300f23dbc2542be3a9f9a4e4d9f1
+    spriteID: 6abf688e19470c541b035eedecb39215
     internalID: 0
     vertices: []
     indices: 
@@ -578,28 +473,22 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":4.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":14.0},"gridSpriteSize":{"x":3840.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      failure2_0: -2791740936369104197
-      failure2_1: -5794335939393703087
-      failure2_10: 849044356
-      failure2_11: 231383859
-      failure2_12: 1388871109
-      failure2_13: 382937019
-      failure2_14: -1801824851
-      failure2_15: -511131162
-      failure2_16: 1328684743
-      failure2_17: -536142255
-      failure2_18: -191368960
-      failure2_19: -286054684
-      failure2_2: 7217825222463439793
-      failure2_3: 4081375893714370809
-      failure2_4: 5097265764005936137
-      failure2_5: 351757539
-      failure2_6: 1792510632
-      failure2_7: 2002442224
-      failure2_8: 1296449936
-      failure2_9: 592788027
+      stairshotspritecutCrop1_Clip_0025_0: 6512469025637844196
+      stairshotspritecutCrop1_Clip_0025_1: 1055387630971709786
+      stairshotspritecutCrop1_Clip_0025_10: 2008619997
+      stairshotspritecutCrop1_Clip_0025_11: -1783879130
+      stairshotspritecutCrop1_Clip_0025_12: -418116386
+      stairshotspritecutCrop1_Clip_0025_13: 1497247783
+      stairshotspritecutCrop1_Clip_0025_2: -2182008663051235863
+      stairshotspritecutCrop1_Clip_0025_3: -8542150258098127755
+      stairshotspritecutCrop1_Clip_0025_4: -4445548914507724848
+      stairshotspritecutCrop1_Clip_0025_5: -1895505120080186984
+      stairshotspritecutCrop1_Clip_0025_6: -7186737839011527897
+      stairshotspritecutCrop1_Clip_0025_7: 7642628670322761234
+      stairshotspritecutCrop1_Clip_0025_8: -1361566938188582550
+      stairshotspritecutCrop1_Clip_0025_9: 672518672410688406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
