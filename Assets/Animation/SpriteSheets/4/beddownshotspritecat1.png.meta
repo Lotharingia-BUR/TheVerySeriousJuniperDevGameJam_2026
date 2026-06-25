@@ -1,0 +1,1655 @@
+fileFormatVersion: 2
+guid: 2085ac22f0b94674fbc53b868bf020f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3063838679492231608
+    second: beddownshotspritecat1_0
+  - first:
+      213: -1898871758433493501
+    second: beddownshotspritecat1_1
+  - first:
+      213: 430800245841600593
+    second: beddownshotspritecat1_2
+  - first:
+      213: -1797030433404687091
+    second: beddownshotspritecat1_3
+  - first:
+      213: 6484560293100861803
+    second: beddownshotspritecat1_4
+  - first:
+      213: -9046773141526536993
+    second: beddownshotspritecat1_5
+  - first:
+      213: 8997952037849102133
+    second: beddownshotspritecat1_6
+  - first:
+      213: -3398179923475348246
+    second: beddownshotspritecat1_7
+  - first:
+      213: -4722707691928069667
+    second: beddownshotspritecat1_8
+  - first:
+      213: 5559024193553080641
+    second: beddownshotspritecat1_9
+  - first:
+      213: 4904135630100515906
+    second: beddownshotspritecat1_10
+  - first:
+      213: 4810123054805194665
+    second: beddownshotspritecat1_11
+  - first:
+      213: 3240650640673192362
+    second: beddownshotspritecat1_12
+  - first:
+      213: 5667379998459383190
+    second: beddownshotspritecat1_13
+  - first:
+      213: 8199122814482660161
+    second: beddownshotspritecat1_14
+  - first:
+      213: -1335493155002962592
+    second: beddownshotspritecat1_15
+  - first:
+      213: 2682041707670616836
+    second: beddownshotspritecat1_16
+  - first:
+      213: -4469675961752640047
+    second: beddownshotspritecat1_17
+  - first:
+      213: -7906684226298261415
+    second: beddownshotspritecat1_18
+  - first:
+      213: 769364079401825959
+    second: beddownshotspritecat1_19
+  - first:
+      213: 1987986694290712763
+    second: beddownshotspritecat1_20
+  - first:
+      213: -6397272195198412377
+    second: beddownshotspritecat1_21
+  - first:
+      213: -7994263979997094620
+    second: beddownshotspritecat1_22
+  - first:
+      213: 3314244261304266071
+    second: beddownshotspritecat1_23
+  - first:
+      213: -3919717355947615417
+    second: beddownshotspritecat1_24
+  - first:
+      213: -4964983897307109549
+    second: beddownshotspritecat1_25
+  - first:
+      213: 7026710879267536705
+    second: beddownshotspritecat1_26
+  - first:
+      213: -575642064594411982
+    second: beddownshotspritecat1_27
+  - first:
+      213: -2120386848774997530
+    second: beddownshotspritecat1_28
+  - first:
+      213: 8974756761161529818
+    second: beddownshotspritecat1_29
+  - first:
+      213: -2392740938088913812
+    second: beddownshotspritecat1_30
+  - first:
+      213: 8271612053441476381
+    second: beddownshotspritecat1_31
+  - first:
+      213: -1706369618090671540
+    second: beddownshotspritecat1_32
+  - first:
+      213: 8946883596119971642
+    second: beddownshotspritecat1_33
+  - first:
+      213: -4202806454502579568
+    second: beddownshotspritecat1_34
+  - first:
+      213: -6718209579874646899
+    second: beddownshotspritecat1_35
+  - first:
+      213: 1860442318285402811
+    second: beddownshotspritecat1_36
+  - first:
+      213: -521739957477043641
+    second: beddownshotspritecat1_37
+  - first:
+      213: -8234377549948733264
+    second: beddownshotspritecat1_38
+  - first:
+      213: -4031585276500426678
+    second: beddownshotspritecat1_39
+  - first:
+      213: -8802190978815643834
+    second: beddownshotspritecat1_40
+  - first:
+      213: -7216269558744767534
+    second: beddownshotspritecat1_41
+  - first:
+      213: -48616952952429187
+    second: beddownshotspritecat1_42
+  - first:
+      213: -6367315099613758333
+    second: beddownshotspritecat1_43
+  - first:
+      213: 9127197188131859230
+    second: beddownshotspritecat1_44
+  - first:
+      213: -4852522543007558845
+    second: beddownshotspritecat1_45
+  - first:
+      213: 5214519484609746271
+    second: beddownshotspritecat1_46
+  - first:
+      213: 126873722583659422
+    second: beddownshotspritecat1_47
+  - first:
+      213: 1459372404153575568
+    second: beddownshotspritecat1_48
+  - first:
+      213: -796384301851477849
+    second: beddownshotspritecat1_49
+  - first:
+      213: -5669684069426751171
+    second: beddownshotspritecat1_50
+  - first:
+      213: -6537896069042173552
+    second: beddownshotspritecat1_51
+  - first:
+      213: -3155136606049794251
+    second: beddownshotspritecat1_52
+  - first:
+      213: -6263356643910524507
+    second: beddownshotspritecat1_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beddownshotspritecat1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e73c334fe0b75d0800000000000000
+      internalID: -3063838679492231608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30edc84423ad5a5e0800000000000000
+      internalID: -1898871758433493501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1502a868a828af500800000000000000
+      internalID: 430800245841600593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_3
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de856875aaf07e0800000000000000
+      internalID: -1797030433404687091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_4
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6931eada39cdf950800000000000000
+      internalID: 6484560293100861803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_5
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc14c772c7637280800000000000000
+      internalID: -9046773141526536993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_6
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 7560
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5377ff984b52fdc70800000000000000
+      internalID: 8997952037849102133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4436a2d5d37d0d0800000000000000
+      internalID: -3398179923475348246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_8
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd95f9c4062957eb0800000000000000
+      internalID: -4722707691928069667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_9
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141a8821d0f952d40800000000000000
+      internalID: 5559024193553080641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_10
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c4a725f5dfe0440800000000000000
+      internalID: 4904135630100515906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_11
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a79497ee6df0c240800000000000000
+      internalID: 4810123054805194665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_12
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9b776869a19fc20800000000000000
+      internalID: 3240650640673192362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_13
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d435fd41496ae40800000000000000
+      internalID: 5667379998459383190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_14
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 6480
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b3a0b42c229c170800000000000000
+      internalID: 8199122814482660161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d25102d00677de0800000000000000
+      internalID: -1335493155002962592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b3d7a19b6883520800000000000000
+      internalID: 2682041707670616836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_17
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5a1a6e46588f1c0800000000000000
+      internalID: -4469675961752640047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_18
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950de4c6690d54290800000000000000
+      internalID: -7906684226298261415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_19
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6f0bfcd845daa00800000000000000
+      internalID: 769364079401825959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_20
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a66b9d5fb69b10800000000000000
+      internalID: 1987986694290712763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_21
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a917b925d25837a0800000000000000
+      internalID: -6397272195198412377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_22
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 5400
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d929ff34bae0190800000000000000
+      internalID: -7994263979997094620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75deae5989f8efd20800000000000000
+      internalID: 3314244261304266071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_24
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b1fc215dd5a99c0800000000000000
+      internalID: -3919717355947615417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_25
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357a9757375d81bb0800000000000000
+      internalID: -4964983897307109549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_26
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f3d1ac054e38160800000000000000
+      internalID: 7026710879267536705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_27
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ed3169798e208f0800000000000000
+      internalID: -575642064594411982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_28
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e93b54356fd292e0800000000000000
+      internalID: -2120386848774997530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_29
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9719659bdbc8c70800000000000000
+      internalID: 8974756761161529818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_30
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64eca94bc64bced0800000000000000
+      internalID: -2392740938088913812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17f735765baac270800000000000000
+      internalID: 8271612053441476381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_32
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42cf228fd1c158e0800000000000000
+      internalID: -1706369618090671540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_33
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3710816a37b92c70800000000000000
+      internalID: 8946883596119971642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_34
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092a7ab0cc1aca5c0800000000000000
+      internalID: -4202806454502579568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_35
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8402f05bff14c2a0800000000000000
+      internalID: -6718209579874646899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_36
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb271827e6e91d910800000000000000
+      internalID: 1860442318285402811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_37
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7421471e54862c8f0800000000000000
+      internalID: -521739957477043641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_38
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8bad4fe3d99bd80800000000000000
+      internalID: -8234377549948733264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a404f702d8eec08c0800000000000000
+      internalID: -4031585276500426678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_40
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fab86d0f558d580800000000000000
+      internalID: -8802190978815643834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_41
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3ad8bd119aadb90800000000000000
+      internalID: -7216269558744767534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_42
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75653d8327435ff0800000000000000
+      internalID: -48616952952429187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_43
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c7a8207a0c2a7a0800000000000000
+      internalID: -6367315099613758333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_44
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b2b811c715aae70800000000000000
+      internalID: 9127197188131859230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_45
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3439577f47068acb0800000000000000
+      internalID: -4852522543007558845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_46
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f555482f7d1bd5840800000000000000
+      internalID: 5214519484609746271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e933eed7afeb2c100800000000000000
+      internalID: 126873722583659422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_48
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098e490387bb04410800000000000000
+      internalID: 1459372404153575568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_49
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8f17762bca2f4f0800000000000000
+      internalID: -796384301851477849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_50
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39902dc06c3151b0800000000000000
+      internalID: -5669684069426751171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_51
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099815a1a2ab445a0800000000000000
+      internalID: -6537896069042173552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_52
+      rect:
+        serializedVersion: 2
+        x: 9600
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537029239f3b634d0800000000000000
+      internalID: -3155136606049794251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_53
+      rect:
+        serializedVersion: 2
+        x: 11520
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1612a21561419a0800000000000000
+      internalID: -6263356643910524507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_54
+      rect:
+        serializedVersion: 2
+        x: 13440
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a1dc0f123cf7947b248c91a2083023
+      internalID: 191700911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4a9f4a2fbd1e54ea09f675eb9531fe
+      internalID: -999583593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_56
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba4481dfdd2ead49944d4953fa17903
+      internalID: -938326634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_57
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9face92f0c8c84f4bb915551f7f4fe03
+      internalID: -363539539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beddownshotspritecat1_58
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fffd3cdd9949404b9a6283817001db3
+      internalID: -549351862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c7e6968f0db526b4fbe802c61e5882c4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":8.0,"y":8.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      beddownshotspritecat1_0: -3063838679492231608
+      beddownshotspritecat1_1: -1898871758433493501
+      beddownshotspritecat1_10: 4904135630100515906
+      beddownshotspritecat1_11: 4810123054805194665
+      beddownshotspritecat1_12: 3240650640673192362
+      beddownshotspritecat1_13: 5667379998459383190
+      beddownshotspritecat1_14: 8199122814482660161
+      beddownshotspritecat1_15: -1335493155002962592
+      beddownshotspritecat1_16: 2682041707670616836
+      beddownshotspritecat1_17: -4469675961752640047
+      beddownshotspritecat1_18: -7906684226298261415
+      beddownshotspritecat1_19: 769364079401825959
+      beddownshotspritecat1_2: 430800245841600593
+      beddownshotspritecat1_20: 1987986694290712763
+      beddownshotspritecat1_21: -6397272195198412377
+      beddownshotspritecat1_22: -7994263979997094620
+      beddownshotspritecat1_23: 3314244261304266071
+      beddownshotspritecat1_24: -3919717355947615417
+      beddownshotspritecat1_25: -4964983897307109549
+      beddownshotspritecat1_26: 7026710879267536705
+      beddownshotspritecat1_27: -575642064594411982
+      beddownshotspritecat1_28: -2120386848774997530
+      beddownshotspritecat1_29: 8974756761161529818
+      beddownshotspritecat1_3: -1797030433404687091
+      beddownshotspritecat1_30: -2392740938088913812
+      beddownshotspritecat1_31: 8271612053441476381
+      beddownshotspritecat1_32: -1706369618090671540
+      beddownshotspritecat1_33: 8946883596119971642
+      beddownshotspritecat1_34: -4202806454502579568
+      beddownshotspritecat1_35: -6718209579874646899
+      beddownshotspritecat1_36: 1860442318285402811
+      beddownshotspritecat1_37: -521739957477043641
+      beddownshotspritecat1_38: -8234377549948733264
+      beddownshotspritecat1_39: -4031585276500426678
+      beddownshotspritecat1_4: 6484560293100861803
+      beddownshotspritecat1_40: -8802190978815643834
+      beddownshotspritecat1_41: -7216269558744767534
+      beddownshotspritecat1_42: -48616952952429187
+      beddownshotspritecat1_43: -6367315099613758333
+      beddownshotspritecat1_44: 9127197188131859230
+      beddownshotspritecat1_45: -4852522543007558845
+      beddownshotspritecat1_46: 5214519484609746271
+      beddownshotspritecat1_47: 126873722583659422
+      beddownshotspritecat1_48: 1459372404153575568
+      beddownshotspritecat1_49: -796384301851477849
+      beddownshotspritecat1_5: -9046773141526536993
+      beddownshotspritecat1_50: -5669684069426751171
+      beddownshotspritecat1_51: -6537896069042173552
+      beddownshotspritecat1_52: -3155136606049794251
+      beddownshotspritecat1_53: -6263356643910524507
+      beddownshotspritecat1_54: 191700911
+      beddownshotspritecat1_55: -999583593
+      beddownshotspritecat1_56: -938326634
+      beddownshotspritecat1_57: -363539539
+      beddownshotspritecat1_58: -549351862
+      beddownshotspritecat1_59: -1429331908
+      beddownshotspritecat1_6: 8997952037849102133
+      beddownshotspritecat1_60: -1428912334
+      beddownshotspritecat1_61: -165179551
+      beddownshotspritecat1_62: -1174168174
+      beddownshotspritecat1_7: -3398179923475348246
+      beddownshotspritecat1_8: -4722707691928069667
+      beddownshotspritecat1_9: 5559024193553080641
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

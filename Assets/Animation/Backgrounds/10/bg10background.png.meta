@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 648ee6116e3b1de4e93ef8bb7051892c
+guid: cf21a974db68d954484b950db6f8f11d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2783600598093402181
-    second: IMG_6055_0
+      213: -7475797899957425135
+    second: bg10background_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IMG_6055_0
+      name: bg10background_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1080
+        width: 2112
+        height: 1272
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5401cedeef551a620800000000000000
-      internalID: 2783600598093402181
+      spriteID: 11c2d602b61a04890800000000000000
+      internalID: -7475797899957425135
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      IMG_6055_0: 2783600598093402181
+      bg10background_0: -7475797899957425135
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
