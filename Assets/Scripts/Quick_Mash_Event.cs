@@ -1,5 +1,7 @@
+using System;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Quick_Mash_Event : MonoBehaviour
 {
@@ -70,12 +72,29 @@ public class Quick_Mash_Event : MonoBehaviour
         }
 
         // Code Animations
-        if (outerRing.transform.localScale.x > 2.5)
+        if (outerRing.transform.localScale.x > 2)
         {
             outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * strength);
+        } 
+
+        if (outerRing.transform.localScale.x > innerRing.transform.localScale.x)
+        {
+            outerRing.transform.localScale = new Vector3 (innerRing.transform.localScale.x,  innerRing.transform.localScale.y, innerRing.transform.localScale.z);
         }
-        
-        innerRing.transform.Rotate(new Vector3 (1f,0f,0f) *  (100 * Time.deltaTime * outerRing.transform.localScale.x));
+
+        if (isFail)
+        {
+            orginObj.GetComponent<QTE_Manager>().time = 0;
+            orginObj.GetComponent<QTE_Manager>().bgMusic.volume -= Time.deltaTime;
+            timeToDeath += Time.deltaTime;
+            if (timeToDeath > 1f)
+            {
+                //KILL HAM D:
+                SceneManager.LoadScene(2);
+            }
+        }
+
+        innerRing.transform.Rotate(new Vector3 (0f,0f,1f) *  (100 * (outerRing.transform.localScale.x - 2.4f)) * Time.deltaTime );
         time += Time.deltaTime; 
     }
 
@@ -99,6 +118,7 @@ public class Quick_Mash_Event : MonoBehaviour
             isLocked = true;
             isFail = true;
             qteController.SetInteger("isWin", -1);
+            timeToDeath = 0;
             Destroy(gameObject, 1.2f);
         }
     }
