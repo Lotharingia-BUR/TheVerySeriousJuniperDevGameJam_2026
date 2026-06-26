@@ -1,43 +1,40 @@
 fileFormatVersion: 2
-guid: a5aacfea73732064b875be4c113e7003
+guid: 945fdc8e38004b44b8650adb67947893
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7637588740618303777
-    second: vacuum_0
+      213: 1319288916498288745
+    second: shot11_6_0
   - first:
-      213: -2345073449404506672
-    second: vacuum_1
+      213: 7777190520498611420
+    second: shot11_6_1
   - first:
-      213: -4884881348718744352
-    second: vacuum_2
+      213: 8846263625234985681
+    second: shot11_6_2
   - first:
-      213: -96568907952058633
-    second: vacuum_3
+      213: -2118751851660889964
+    second: shot11_6_3
   - first:
-      213: 4820962233014875590
-    second: vacuum_4
+      213: 5550003569739920576
+    second: shot11_6_4
   - first:
-      213: -2875496638972654313
-    second: vacuum_5
+      213: 8883105455345546319
+    second: shot11_6_5
   - first:
-      213: 278057775515200662
-    second: vacuum_6
+      213: -3187648028336102018
+    second: shot11_6_6
   - first:
-      213: 1547048415519441610
-    second: vacuum_7
+      213: -7929584727131077096
+    second: shot11_6_7
   - first:
-      213: 5444784976728196011
-    second: vacuum_8
+      213: -4055108079498645882
+    second: shot11_6_8
   - first:
-      213: -4587407864809661162
-    second: vacuum_9
+      213: -4116935359961228751
+    second: shot11_6_9
   - first:
-      213: -6493664111258969422
-    second: vacuum_10
-  - first:
-      213: 7797742285187834062
-    second: vacuum_11
+      213: -5557960109716366463
+    second: shot11_6_10
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -105,7 +102,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -131,14 +128,14 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: WebGL
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 12
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
@@ -146,7 +143,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: vacuum_0
+      name: shot11_6_0
       rect:
         serializedVersion: 2
         x: 0
@@ -161,14 +158,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 129b3117e7a2ef960800000000000000
-      internalID: 7637588740618303777
+      spriteID: 9609df7974e0f4210800000000000000
+      internalID: 1319288916498288745
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_1
+      name: shot11_6_1
       rect:
         serializedVersion: 2
         x: 1920
@@ -183,14 +180,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0dd5b0c5f10a47fd0800000000000000
-      internalID: -2345073449404506672
+      spriteID: cd4ead4b2912eeb60800000000000000
+      internalID: 7777190520498611420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_2
+      name: shot11_6_2
       rect:
         serializedVersion: 2
         x: 3840
@@ -205,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ec20b76b4a653cb0800000000000000
-      internalID: -4884881348718744352
+      spriteID: 1d2379bc5ed34ca70800000000000000
+      internalID: 8846263625234985681
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_3
+      name: shot11_6_3
       rect:
         serializedVersion: 2
         x: 5760
@@ -227,14 +224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7fe8b21071be8aef0800000000000000
-      internalID: -96568907952058633
+      spriteID: 4903d82aa6ea892e0800000000000000
+      internalID: -2118751851660889964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_4
+      name: shot11_6_4
       rect:
         serializedVersion: 2
         x: 0
@@ -249,14 +246,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6c5fc6ebb9f77e240800000000000000
-      internalID: 4820962233014875590
+      spriteID: 0c47f7c67d2950d40800000000000000
+      internalID: 5550003569739920576
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_5
+      name: shot11_6_5
       rect:
         serializedVersion: 2
         x: 1920
@@ -271,14 +268,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71d8439ba0f2818d0800000000000000
-      internalID: -2875496638972654313
+      spriteID: f44b430d851274b70800000000000000
+      internalID: 8883105455345546319
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_6
+      name: shot11_6_6
       rect:
         serializedVersion: 2
         x: 3840
@@ -293,14 +290,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 69c6e98d21cdbd300800000000000000
-      internalID: 278057775515200662
+      spriteID: e756d02d10333c3d0800000000000000
+      internalID: -3187648028336102018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_7
+      name: shot11_6_7
       rect:
         serializedVersion: 2
         x: 5760
@@ -315,14 +312,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ac20e595658387510800000000000000
-      internalID: 1547048415519441610
+      spriteID: 8164df214b474f190800000000000000
+      internalID: -7929584727131077096
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_8
+      name: shot11_6_8
       rect:
         serializedVersion: 2
         x: 0
@@ -337,14 +334,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ba38440b613cf8b40800000000000000
-      internalID: 5444784976728196011
+      spriteID: 68eaaa3cfac59b7c0800000000000000
+      internalID: -4055108079498645882
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_9
+      name: shot11_6_9
       rect:
         serializedVersion: 2
         x: 1920
@@ -359,14 +356,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 61ddf222ad04650c0800000000000000
-      internalID: -4587407864809661162
+      spriteID: 13a14424a15bdd6c0800000000000000
+      internalID: -4116935359961228751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_10
+      name: shot11_6_10
       rect:
         serializedVersion: 2
         x: 3840
@@ -381,14 +378,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2bad4bd45eed1e5a0800000000000000
-      internalID: -6493664111258969422
+      spriteID: 18b90904ab82ed2b0800000000000000
+      internalID: -5557960109716366463
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: vacuum_11
+      name: shot11_6_11
       rect:
         serializedVersion: 2
         x: 5760
@@ -401,10 +398,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ec0e9ae4b45273c60800000000000000
-      internalID: 7797742285187834062
+      spriteID: 01a6df8d887977c4d85334cfc9022679
+      internalID: -665555091
       vertices: []
       indices: 
       edges: []
@@ -413,7 +410,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 67eba0e5c0579b147b5f0a06dca7e402
+    spriteID: aa737109e0e5c2c4bb32c72e466ad1a7
     internalID: 0
     vertices: []
     indices: 
@@ -425,18 +422,18 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":3.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      vacuum_0: 7637588740618303777
-      vacuum_1: -2345073449404506672
-      vacuum_10: -6493664111258969422
-      vacuum_11: 7797742285187834062
-      vacuum_2: -4884881348718744352
-      vacuum_3: -96568907952058633
-      vacuum_4: 4820962233014875590
-      vacuum_5: -2875496638972654313
-      vacuum_6: 278057775515200662
-      vacuum_7: 1547048415519441610
-      vacuum_8: 5444784976728196011
-      vacuum_9: -4587407864809661162
+      shot11_6_0: 1319288916498288745
+      shot11_6_1: 7777190520498611420
+      shot11_6_10: -5557960109716366463
+      shot11_6_11: -665555091
+      shot11_6_2: 8846263625234985681
+      shot11_6_3: -2118751851660889964
+      shot11_6_4: 5550003569739920576
+      shot11_6_5: 8883105455345546319
+      shot11_6_6: -3187648028336102018
+      shot11_6_7: -7929584727131077096
+      shot11_6_8: -4055108079498645882
+      shot11_6_9: -4116935359961228751
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
