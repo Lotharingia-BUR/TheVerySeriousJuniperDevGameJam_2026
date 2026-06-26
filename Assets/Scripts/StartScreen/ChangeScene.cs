@@ -30,7 +30,7 @@ public class ChangeScene : MonoBehaviour
     {
         time += Time.deltaTime;
 
-        if(time > 11.1f && isSceneChange)
+        if(time > 12.1f && isSceneChange)
         {
             SceneManager.LoadScene(sceneIndex);
         }
