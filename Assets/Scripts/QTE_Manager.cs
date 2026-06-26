@@ -49,6 +49,7 @@ public class QTE_Manager : MonoBehaviour
 
     void Update()
     { 
+        
         currentKey = checkKey();
         if (float.TryParse(spawnData[0], out targetTime) && spawnIndex < QTEList.Count) 
         {
@@ -92,9 +93,11 @@ public class QTE_Manager : MonoBehaviour
             }
         }
 
-
-
-        time += Time.deltaTime;
+        if (GameObject.Find("Cinema").GetComponent<Cinema_Toggle>().isOn == false)
+        {
+            // time doesent exist in cinema
+            time += Time.deltaTime;
+        }
     }
 
 

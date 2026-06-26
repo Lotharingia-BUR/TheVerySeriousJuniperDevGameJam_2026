@@ -1,19 +1,34 @@
 fileFormatVersion: 2
-guid: 3c97745b2ed737b40b62ef54f2f5df6e
+guid: 824d4543f11a0144e8986848173e45ae
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6830410012251369305
-    second: BigExit_0
+      213: -483147964885561310
+    second: CMON_0
   - first:
-      213: -4759242655255201665
-    second: BigExit_1
+      213: 7395772631830413631
+    second: CMON_1
   - first:
-      213: -44459845803835164
-    second: BigExit_2
+      213: -2019073501592596551
+    second: CMON_2
   - first:
-      213: 6186095768595132041
-    second: BigExit_3
+      213: -9057647538563877058
+    second: CMON_3
+  - first:
+      213: -3605442609895484429
+    second: CMON_4
+  - first:
+      213: 5618023738425502578
+    second: CMON_5
+  - first:
+      213: 1022208509085117464
+    second: CMON_6
+  - first:
+      213: 355547953870765450
+    second: CMON_7
+  - first:
+      213: -3184873063468827790
+    second: CMON_8
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -81,7 +96,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 16384
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -122,13 +137,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: BigExit_0
+      name: CMON_0
       rect:
         serializedVersion: 2
-        x: 69
-        y: 17
-        width: 24
-        height: 14
+        x: 11
+        y: 5
+        width: 64
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,19 +152,129 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 95fa38297bd7ace50800000000000000
-      internalID: 6830410012251369305
+      spriteID: 2201b0b5c738b49f0800000000000000
+      internalID: -483147964885561310
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BigExit_1
+      name: CMON_1
       rect:
         serializedVersion: 2
-        x: 92
+        x: 73
         y: 5
-        width: 33
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31cecf260013a660800000000000000
+      internalID: 7395772631830413631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CMON_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 5
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf4b2a095fcaf3e0800000000000000
+      internalID: -2019073501592596551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CMON_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 5
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37753b9d85cc4280800000000000000
+      internalID: -9057647538563877058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CMON_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f35f1b7c05e6fdc0800000000000000
+      internalID: -3605442609895484429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CMON_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 5
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b609413da37fd40800000000000000
+      internalID: 5618023738425502578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CMON_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 12
         height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -159,19 +284,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7870a54506c3fdb0800000000000000
-      internalID: -4759242655255201665
+      spriteID: 81c666e193d9f2e00800000000000000
+      internalID: 1022208509085117464
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BigExit_2
+      name: CMON_7
       rect:
         serializedVersion: 2
-        x: 123
+        x: 225
         y: 5
-        width: 94
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d7513faf82fe400800000000000000
+      internalID: 355547953870765450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CMON_8
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 44
         height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -181,30 +328,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4e0081c710c026ff0800000000000000
-      internalID: -44459845803835164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BigExit_3
-      rect:
-        serializedVersion: 2
-        x: 208
-        y: 17
-        width: 24
-        height: 14
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98ee8a1835d69d550800000000000000
-      internalID: 6186095768595132041
+      spriteID: 27bfa3da2de0dc3d0800000000000000
+      internalID: -3184873063468827790
       vertices: []
       indices: 
       edges: []
@@ -223,10 +348,15 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      BigExit_0: 6830410012251369305
-      BigExit_1: -4759242655255201665
-      BigExit_2: -44459845803835164
-      BigExit_3: 6186095768595132041
+      CMON_0: -483147964885561310
+      CMON_1: 7395772631830413631
+      CMON_2: -2019073501592596551
+      CMON_3: -9057647538563877058
+      CMON_4: -3605442609895484429
+      CMON_5: 5618023738425502578
+      CMON_6: 1022208509085117464
+      CMON_7: 355547953870765450
+      CMON_8: -3184873063468827790
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

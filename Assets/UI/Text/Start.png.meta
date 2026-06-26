@@ -1,16 +1,28 @@
 fileFormatVersion: 2
-guid: bf4099f4c59526d4bbed7ccac4dcec19
+guid: 3ea3dcd03e6a03d449afc05dbf88693a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2901582574482290248
-    second: CinemaOFF_0
+      213: 2660195087753647290
+    second: Start_0
   - first:
-      213: 5872848445470500307
-    second: CinemaOFF_1
+      213: -4938904925403426689
+    second: Start_1
   - first:
-      213: -3415059972724964459
-    second: CinemaOFF_2
+      213: -7530241168618467137
+    second: Start_2
+  - first:
+      213: -6527066995249691807
+    second: Start_3
+  - first:
+      213: 8951363092807054316
+    second: Start_4
+  - first:
+      213: 8898705827102091182
+    second: Start_5
+  - first:
+      213: 8727927491527918636
+    second: Start_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -119,13 +131,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: CinemaOFF_0
+      name: Start_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3
-        width: 58
-        height: 23
+        x: 46
+        y: 16
+        width: 24
+        height: 14
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,20 +146,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8b9058195028bb7d0800000000000000
-      internalID: -2901582574482290248
+      spriteID: ab49bc68659eae420800000000000000
+      internalID: 2660195087753647290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CinemaOFF_1
+      name: Start_1
       rect:
         serializedVersion: 2
-        x: 60
-        y: 3
-        width: 47
-        height: 23
+        x: 69
+        y: 4
+        width: 29
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -156,20 +168,64 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d569f3ab8c808150800000000000000
-      internalID: 5872848445470500307
+      spriteID: f70d6e5432c757bb0800000000000000
+      internalID: -4938904925403426689
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: CinemaOFF_2
+      name: Start_2
       rect:
         serializedVersion: 2
-        x: 109
-        y: 0
+        x: 96
+        y: 4
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb05977dd853f7790800000000000000
+      internalID: -7530241168618467137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16347f256233b65a0800000000000000
+      internalID: -6527066995249691807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
         width: 42
-        height: 26
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -178,8 +234,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 593c21f6c054b90d0800000000000000
-      internalID: -3415059972724964459
+      spriteID: ce37e4a7e41a93c70800000000000000
+      internalID: 8951363092807054316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea76e196dcd8e7b70800000000000000
+      internalID: 8898705827102091182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 16
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2443ed9fc3df1970800000000000000
+      internalID: 8727927491527918636
       vertices: []
       indices: 
       edges: []
@@ -198,9 +298,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      CinemaOFF_0: -2901582574482290248
-      CinemaOFF_1: 5872848445470500307
-      CinemaOFF_2: -3415059972724964459
+      Start_0: 2660195087753647290
+      Start_1: -4938904925403426689
+      Start_2: -7530241168618467137
+      Start_3: -6527066995249691807
+      Start_4: 8951363092807054316
+      Start_5: 8898705827102091182
+      Start_6: 8727927491527918636
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
