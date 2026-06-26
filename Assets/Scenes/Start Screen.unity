@@ -633,6 +633,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ChangeScene
   time: 0
+  targetTime: 12.1
   sceneButton: {fileID: 2077170072}
   sceneAnimator: {fileID: 456159024}
   UIAnimator: {fileID: 1970482914}
