@@ -21,7 +21,10 @@ public class Quick_Mash_Event : MonoBehaviour
     public GameObject innerRing;
     public Animator qteController;
 
+    private bool isFail;
     private float time;
+    private bool isLocked;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -72,21 +75,31 @@ public class Quick_Mash_Event : MonoBehaviour
             outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * strength);
         }
         
-        outerRing.transform.Rotate(new Vector3 (0f,0f,1f) *  (100 * Time.deltaTime));
+        innerRing.transform.Rotate(new Vector3 (1f,0f,0f) *  (100 * Time.deltaTime * outerRing.transform.localScale.x));
         time += Time.deltaTime; 
     }
 
     void victory()
     {
-        print("!Hit!");
-        qteController.SetInteger("isWin", 1);
-        Destroy(gameObject, .5f);
+        if (!isFail)
+        {
+            isLocked = true;
+            print("!Hit!");
+            qteController.SetInteger("isWin", 1);
+            Destroy(gameObject, .5f);
+        }
     }
 
     void failure()
     {
-        print("!fail!");
-        qteController.SetInteger("isWin", -1);
-        Destroy(gameObject, .5f);
+        if (!isLocked)
+        {
+            print("!fail!");
+            orginObj.GetComponent<QTE_Manager>().deathAnimator.SetBool("isDead", true);
+            isLocked = true;
+            isFail = true;
+            qteController.SetInteger("isWin", -1);
+            Destroy(gameObject, 1.2f);
+        }
     }
 }
