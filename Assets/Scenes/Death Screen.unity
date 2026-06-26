@@ -145,8 +145,8 @@ Transform:
   m_GameObject: {fileID: 95952957}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.00007709705, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 456159023}
@@ -348,7 +348,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 10
+  orthographic size: 5
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -373,11 +373,11 @@ Transform:
   m_GameObject: {fileID: 354687119}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -100}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -156.16667}
+  m_LocalScale: {x: 21.036488, y: 21.036488, z: 5.314482}
   m_ConstrainProportionsScale: 0
   m_Children: []
-  m_Father: {fileID: 456159023}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &354687123
 MonoBehaviour:
@@ -433,6 +433,7 @@ GameObject:
   m_Component:
   - component: {fileID: 456159023}
   - component: {fileID: 456159022}
+  - component: {fileID: 456159024}
   m_Layer: 0
   m_Name: Video Player
   m_TagString: Untagged
@@ -489,7 +490,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 5
   m_MaskInteraction: 0
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -7037877725241582853, guid: f2a45ad5ef32c4a4eae3dc31adeaf45d, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -499,24 +500,49 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!4 &456159023
-Transform:
+--- !u!224 &456159023
+RectTransform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 456159021}
-  serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -399.99997, y: -224.99998, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 1
+  m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 702113974}
   - {fileID: 95952958}
-  - {fileID: 354687122}
-  m_Father: {fileID: 1970482913}
+  m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 2, y: 2}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!95 &456159024
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 456159021}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b0ec7c2c3f0c43147849f86c7d397fb0, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &702113973
 GameObject:
   m_ObjectHideFlags: 0
@@ -983,7 +1009,6 @@ RectTransform:
   m_Children:
   - {fileID: 343030837}
   - {fileID: 760097902}
-  - {fileID: 456159023}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -1001,7 +1026,7 @@ Animator:
   m_GameObject: {fileID: 1970482909}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b0ec7c2c3f0c43147849f86c7d397fb0, type: 2}
+  m_Controller: {fileID: 9100000, guid: 0f35715070336d044a5240d1809eb6c4, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1085,9 +1110,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ChangeScene
   time: 0
-  targetTime: 1.2
+  targetTime: 1.5
   sceneButton: {fileID: 2077170072}
-  sceneAnimator: {fileID: 1970482914}
+  sceneAnimator: {fileID: 456159024}
   UIAnimator: {fileID: 1970482914}
   sceneIndex: 1
 --- !u!114 &1970482917
@@ -1105,7 +1130,7 @@ MonoBehaviour:
   time: 0
   targetTime: 0.1
   sceneButton: {fileID: 1512639121}
-  sceneAnimator: {fileID: 1970482914}
+  sceneAnimator: {fileID: 456159024}
   UIAnimator: {fileID: 1970482914}
   sceneIndex: 0
 --- !u!1 &2077170070
@@ -1232,5 +1257,7 @@ CanvasRenderer:
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
+  - {fileID: 354687122}
+  - {fileID: 456159023}
   - {fileID: 1970482913}
   - {fileID: 1710048669}
