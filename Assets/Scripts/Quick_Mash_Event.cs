@@ -58,7 +58,7 @@ public class Quick_Mash_Event : MonoBehaviour
         //Check to see if current key matches type
         if (type == orginObj.GetComponent<QTE_Manager>().currentKey)
         {
-            outerRing.transform.localScale += Vector3.one * 1;
+            outerRing.transform.localScale += Vector3.one * strength;
         }
         if (outerRing.transform.localScale.x > innerRing.transform.localScale.x)
         {
@@ -74,7 +74,7 @@ public class Quick_Mash_Event : MonoBehaviour
         // Code Animations
         if (outerRing.transform.localScale.x > 2)
         {
-            outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * strength);
+            outerRing.transform.localScale -= Vector3.one * (Time.deltaTime);
         } 
 
         if (outerRing.transform.localScale.x > innerRing.transform.localScale.x)
@@ -85,7 +85,7 @@ public class Quick_Mash_Event : MonoBehaviour
         if (isFail)
         {
             orginObj.GetComponent<QTE_Manager>().time = 0;
-            orginObj.GetComponent<QTE_Manager>().bgMusic.volume -= Time.deltaTime;
+            orginObj.GetComponent<QTE_Manager>().bgMusic.volume -= Time.deltaTime / 2;
             timeToDeath += Time.deltaTime;
             if (timeToDeath > 1f)
             {
@@ -94,7 +94,7 @@ public class Quick_Mash_Event : MonoBehaviour
             }
         }
 
-        innerRing.transform.Rotate(new Vector3 (0f,0f,1f) *  (100 * (outerRing.transform.localScale.x - 2.4f)) * Time.deltaTime );
+        innerRing.transform.Rotate(new Vector3 (0f,0f,1f) *  (150 * (outerRing.transform.localScale.x - 1.9f)) * Time.deltaTime );
         time += Time.deltaTime; 
     }
 
