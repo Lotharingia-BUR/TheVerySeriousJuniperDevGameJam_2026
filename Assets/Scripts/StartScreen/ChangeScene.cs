@@ -34,6 +34,7 @@ public class ChangeScene : MonoBehaviour
         if(time > targetTime && isSceneChange)
         {
             SceneManager.LoadScene(sceneIndex);
+            //SceneManager.LoadSceneAsync(newScene, LoadSceneMode.Additive)
         }
 
     }

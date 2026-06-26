@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: 9afa28bcdc66a2341ba6e5d64fa0131b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3193605588383351284
+    second: kitchensprite_Clip_006_0
+  - first:
+      213: 88885867147302800
+    second: kitchensprite_Clip_006_1
+  - first:
+      213: -536187663343035632
+    second: kitchensprite_Clip_006_2
+  - first:
+      213: -3408835506916651049
+    second: kitchensprite_Clip_006_3
+  - first:
+      213: -4548333291533245173
+    second: kitchensprite_Clip_006_4
+  - first:
+      213: -1361275537522943513
+    second: kitchensprite_Clip_006_5
+  - first:
+      213: 3860395123023098818
+    second: kitchensprite_Clip_006_6
+  - first:
+      213: -8984959519234085555
+    second: kitchensprite_Clip_006_7
+  - first:
+      213: -2908947423314320665
+    second: kitchensprite_Clip_006_8
+  - first:
+      213: 8323923488865478983
+    second: kitchensprite_Clip_006_9
+  - first:
+      213: 6934696748780451058
+    second: kitchensprite_Clip_006_10
+  - first:
+      213: -4103964547788987539
+    second: kitchensprite_Clip_006_11
+  - first:
+      213: 7698245223817913156
+    second: kitchensprite_Clip_006_12
+  - first:
+      213: 1936058404737518968
+    second: kitchensprite_Clip_006_13
+  - first:
+      213: -6657743885149313887
+    second: kitchensprite_Clip_006_14
+  - first:
+      213: -8103274035059605239
+    second: kitchensprite_Clip_006_15
+  - first:
+      213: -207633483518146341
+    second: kitchensprite_Clip_006_16
+  - first:
+      213: -4274550281481749359
+    second: kitchensprite_Clip_006_17
+  - first:
+      213: -8975474072246601055
+    second: kitchensprite_Clip_006_18
+  - first:
+      213: 2809127311517691344
+    second: kitchensprite_Clip_006_19
+  - first:
+      213: -8118039318150211610
+    second: kitchensprite_Clip_006_20
+  - first:
+      213: -3095526581163325509
+    second: kitchensprite_Clip_006_21
+  - first:
+      213: 6516533258436489699
+    second: kitchensprite_Clip_006_22
+  - first:
+      213: -7258869078470240104
+    second: kitchensprite_Clip_006_23
+  - first:
+      213: -4850222811282019018
+    second: kitchensprite_Clip_006_24
+  - first:
+      213: -2698679044043974439
+    second: kitchensprite_Clip_006_25
+  - first:
+      213: -6139438046779447543
+    second: kitchensprite_Clip_006_26
+  - first:
+      213: -5618051238225386938
+    second: kitchensprite_Clip_006_27
+  - first:
+      213: -5293117926540475844
+    second: kitchensprite_Clip_006_28
+  - first:
+      213: 1993119189409807240
+    second: kitchensprite_Clip_006_29
+  - first:
+      213: 8347343978805093277
+    second: kitchensprite_Clip_006_30
+  - first:
+      213: 6429744656786906914
+    second: kitchensprite_Clip_006_31
+  - first:
+      213: -8022427231578476709
+    second: kitchensprite_Clip_006_32
+  - first:
+      213: 1046971803757594721
+    second: kitchensprite_Clip_006_33
+  - first:
+      213: 2312527133319507030
+    second: kitchensprite_Clip_006_34
+  - first:
+      213: 7689288748481346966
+    second: kitchensprite_Clip_006_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kitchensprite_Clip_006_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9720
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1ca48bc57f15c20800000000000000
+      internalID: 3193605588383351284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchensprite_Clip_006_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8640
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0971ed8a939cb3100800000000000000
+      internalID: 88885867147302800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchensprite_Clip_006_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7560
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bdd7939241f88f0800000000000000
+      internalID: -536187663343035632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchensprite_Clip_006_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df8e70da2261b0d0800000000000000
+      internalID: -3408835506916651049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchensprite_Clip_006_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5400
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05e31e28f211e0c0800000000000000
+      internalID: -4548333291533245173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchensprite_Clip_006_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e914886c17cb1de0800000000000000
+      internalID: -1361275537522943513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchensprite_Clip_006_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3317049e0e29530800000000000000
+      internalID: 3860395123023098818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchensprite_Clip_006_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da9ceebe20f4380800000000000000
+      internalID: -8984959519234085555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchensprite_Clip_006_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2ef031bb751a7d0800000000000000
+      internalID: -2908947423314320665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kitchensprite_Clip_006_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3840
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7496b53af44848370800000000000000
+      internalID: 8323923488865478983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a57a35636b4363247bc10ddab0a02abd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":10.0},"gridSpriteSize":{"x":3840.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      kitchensprite_Clip_006_0: 3193605588383351284
+      kitchensprite_Clip_006_1: 88885867147302800
+      kitchensprite_Clip_006_2: -536187663343035632
+      kitchensprite_Clip_006_3: -3408835506916651049
+      kitchensprite_Clip_006_4: -4548333291533245173
+      kitchensprite_Clip_006_5: -1361275537522943513
+      kitchensprite_Clip_006_6: 3860395123023098818
+      kitchensprite_Clip_006_7: -8984959519234085555
+      kitchensprite_Clip_006_8: -2908947423314320665
+      kitchensprite_Clip_006_9: 8323923488865478983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -102,10 +102,13 @@ public class Quick_Time_Event : MonoBehaviour
 
     void victory()
     {
-        isLocked = true;
-        print("!Hit!");
-        qteController.SetInteger("isWin", 1);
-        Destroy(gameObject, .5f);
+        if(!isFail)
+        {
+            isLocked = true;
+            print("!Hit!");
+            qteController.SetInteger("isWin", 1);
+            Destroy(gameObject, .5f);
+        }
     }
 
     void failure()
