@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 8577df591d478ca4685f6de42ea45fdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9034425854032957540
+    second: vacuumcrashsprite_Clip_002_0
+  - first:
+      213: 9195931996386262831
+    second: vacuumcrashsprite_Clip_002_1
+  - first:
+      213: -7013347753730649644
+    second: vacuumcrashsprite_Clip_002_2
+  - first:
+      213: -4078072981013558724
+    second: vacuumcrashsprite_Clip_002_3
+  - first:
+      213: -1157929526160687198
+    second: vacuumcrashsprite_Clip_002_4
+  - first:
+      213: -4863824730507209457
+    second: vacuumcrashsprite_Clip_002_5
+  - first:
+      213: 311891087666509946
+    second: vacuumcrashsprite_Clip_002_6
+  - first:
+      213: -6079962744889223448
+    second: vacuumcrashsprite_Clip_002_7
+  - first:
+      213: -1401923734903155061
+    second: vacuumcrashsprite_Clip_002_8
+  - first:
+      213: 8312465157500950289
+    second: vacuumcrashsprite_Clip_002_9
+  - first:
+      213: -454629234090379220
+    second: vacuumcrashsprite_Clip_002_10
+  - first:
+      213: 3923964356054303068
+    second: vacuumcrashsprite_Clip_002_11
+  - first:
+      213: 9185044146336614554
+    second: vacuumcrashsprite_Clip_002_12
+  - first:
+      213: 7300030310469590023
+    second: vacuumcrashsprite_Clip_002_13
+  - first:
+      213: 4989187199245886271
+    second: vacuumcrashsprite_Clip_002_14
+  - first:
+      213: 5135615458251649421
+    second: vacuumcrashsprite_Clip_002_15
+  - first:
+      213: 8726251832313792617
+    second: vacuumcrashsprite_Clip_002_16
+  - first:
+      213: -6192998234463545869
+    second: vacuumcrashsprite_Clip_002_17
+  - first:
+      213: -7115806768889261198
+    second: vacuumcrashsprite_Clip_002_18
+  - first:
+      213: -6871902354901347114
+    second: vacuumcrashsprite_Clip_002_19
+  - first:
+      213: 633667461004438110
+    second: vacuumcrashsprite_Clip_002_20
+  - first:
+      213: -9114366495139445876
+    second: vacuumcrashsprite_Clip_002_21
+  - first:
+      213: 3827791445304154873
+    second: vacuumcrashsprite_Clip_002_22
+  - first:
+      213: -3022273164605937526
+    second: vacuumcrashsprite_Clip_002_23
+  - first:
+      213: -3773619887781418800
+    second: vacuumcrashsprite_Clip_002_24
+  - first:
+      213: -5122184922971016335
+    second: vacuumcrashsprite_Clip_002_25
+  - first:
+      213: -1861659207205016601
+    second: vacuumcrashsprite_Clip_002_26
+  - first:
+      213: -6426381456881718503
+    second: vacuumcrashsprite_Clip_002_27
+  - first:
+      213: 7246456874638170624
+    second: vacuumcrashsprite_Clip_002_28
+  - first:
+      213: -947178325398073904
+    second: vacuumcrashsprite_Clip_002_29
+  - first:
+      213: -6457898948481013104
+    second: vacuumcrashsprite_Clip_002_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4605d33a27ab06d70800000000000000
+      internalID: 9034425854032957540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_1
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f7047bd638e9f70800000000000000
+      internalID: 9195931996386262831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_2
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1d99450659bae90800000000000000
+      internalID: -7013347753730649644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_3
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a8196fa36c767c0800000000000000
+      internalID: -4078072981013558724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_4
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 4320
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af714e1b353eefe0800000000000000
+      internalID: -1157929526160687198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f059b506d29308cb0800000000000000
+      internalID: -4863824730507209457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78f8f0ba4f045400800000000000000
+      internalID: 311891087666509946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_7
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6d447b812af9ba0800000000000000
+      internalID: -6079962744889223448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_8
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8698e27acd5b8ce0800000000000000
+      internalID: -1401923734903155061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_9
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 3240
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117d7a8f40fcb5370800000000000000
+      internalID: 8312465157500950289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28f88dce15d0b9f0800000000000000
+      internalID: -454629234090379220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_11
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5149e1bac8b47630800000000000000
+      internalID: 3923964356054303068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_12
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98cca49cf4d77f70800000000000000
+      internalID: 9185044146336614554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_13
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cdf11e3eaee4560800000000000000
+      internalID: 7300030310469590023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_14
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 2160
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f332af8e2572d3540800000000000000
+      internalID: 4989187199245886271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d813814bc0f554740800000000000000
+      internalID: 5135615458251649421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_16
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9684aadcecfd91970800000000000000
+      internalID: 8726251832313792617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_17
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5dd2ceaec0e0aa0800000000000000
+      internalID: -6192998234463545869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_18
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2731902e1739f3d90800000000000000
+      internalID: -7115806768889261198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_19
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1080
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d45fe4973912a0a0800000000000000
+      internalID: -6871902354901347114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aa4eec23d3bc800800000000000000
+      internalID: 633667461004438110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83cd7076f3438180800000000000000
+      internalID: -9114366495139445876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vacuumcrashsprite_Clip_002_22
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 0
+        width: 1920
+        height: 1080
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa12abf90c0f1530800000000000000
+      internalID: 3827791445304154873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b10fad10978563b4899a352b568cc069
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":5.0},"gridSpriteSize":{"x":1920.0,"y":1080.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      vacuumcrashsprite_Clip_002_0: 9034425854032957540
+      vacuumcrashsprite_Clip_002_1: 9195931996386262831
+      vacuumcrashsprite_Clip_002_10: -454629234090379220
+      vacuumcrashsprite_Clip_002_11: 3923964356054303068
+      vacuumcrashsprite_Clip_002_12: 9185044146336614554
+      vacuumcrashsprite_Clip_002_13: 7300030310469590023
+      vacuumcrashsprite_Clip_002_14: 4989187199245886271
+      vacuumcrashsprite_Clip_002_15: 5135615458251649421
+      vacuumcrashsprite_Clip_002_16: 8726251832313792617
+      vacuumcrashsprite_Clip_002_17: -6192998234463545869
+      vacuumcrashsprite_Clip_002_18: -7115806768889261198
+      vacuumcrashsprite_Clip_002_19: -6871902354901347114
+      vacuumcrashsprite_Clip_002_2: -7013347753730649644
+      vacuumcrashsprite_Clip_002_20: 633667461004438110
+      vacuumcrashsprite_Clip_002_21: -9114366495139445876
+      vacuumcrashsprite_Clip_002_22: 3827791445304154873
+      vacuumcrashsprite_Clip_002_3: -4078072981013558724
+      vacuumcrashsprite_Clip_002_4: -1157929526160687198
+      vacuumcrashsprite_Clip_002_5: -4863824730507209457
+      vacuumcrashsprite_Clip_002_6: 311891087666509946
+      vacuumcrashsprite_Clip_002_7: -6079962744889223448
+      vacuumcrashsprite_Clip_002_8: -1401923734903155061
+      vacuumcrashsprite_Clip_002_9: 8312465157500950289
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

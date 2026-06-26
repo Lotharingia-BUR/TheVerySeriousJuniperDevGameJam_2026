@@ -5,6 +5,7 @@ using UnityEngine.UI;
 public class ChangeScene : MonoBehaviour
 {
     public float time;
+    public float targetTime;
     public Button sceneButton;
     public Animator sceneAnimator;
     public Animator UIAnimator;
@@ -30,7 +31,7 @@ public class ChangeScene : MonoBehaviour
     {
         time += Time.deltaTime;
 
-        if(time > 12.1f && isSceneChange)
+        if(time > targetTime && isSceneChange)
         {
             SceneManager.LoadScene(sceneIndex);
         }

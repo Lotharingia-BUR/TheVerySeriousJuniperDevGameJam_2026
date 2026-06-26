@@ -28,6 +28,8 @@ public class QTE_Manager : MonoBehaviour
     private float targetTime;
     public GameObject QTEObject;
     public GameObject QTEMashObject;
+    public Animator deathAnimator;
+    public AudioSource bgMusic;
 
     private float spawnX;
     private float spawnY;

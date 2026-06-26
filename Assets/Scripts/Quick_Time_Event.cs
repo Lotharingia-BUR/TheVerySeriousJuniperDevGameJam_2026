@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Quick_Time_Event : MonoBehaviour
 {
@@ -20,12 +21,19 @@ public class Quick_Time_Event : MonoBehaviour
     public Animator qteController;
 
     private bool isSuccess;
+    private bool isFail;
 
     private float time;
+    private bool isLocked;
+    private float deathTime;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         isSuccess = false;
+        isFail = false;
+        isLocked = false;
+        deathTime = 0;
+
         if (type == "A")
         {
             GetComponent<SpriteRenderer>().sprite = typeA;
@@ -70,7 +78,19 @@ public class Quick_Time_Event : MonoBehaviour
         // Code Animations
         outerRing.transform.localScale -= Vector3.one * (Time.deltaTime * 4/timeToDeath);
         outerRing.transform.Rotate(new Vector3 (0f,0f,1f) *  (100 * Time.deltaTime));
-        time += Time.deltaTime; 
+        time += Time.deltaTime;
+        if (isFail)
+        {
+            orginObj.GetComponent<QTE_Manager>().time = 0;
+            orginObj.GetComponent<QTE_Manager>().bgMusic.volume -= Time.deltaTime;
+            deathTime += Time.deltaTime;
+            if (deathTime > 1f)
+            {
+                //KILL HAM D:
+                SceneManager.LoadScene(2);
+            }
+        }
+        
 
         //Change colour
         if (outerRing.transform.localScale.x < innerRing.transform.localScale.x)
@@ -82,6 +102,7 @@ public class Quick_Time_Event : MonoBehaviour
 
     void victory()
     {
+        isLocked = true;
         print("!Hit!");
         qteController.SetInteger("isWin", 1);
         Destroy(gameObject, .5f);
@@ -89,8 +110,14 @@ public class Quick_Time_Event : MonoBehaviour
 
     void failure()
     {
-        print("!fail!");
-        qteController.SetInteger("isWin", -1);
-        Destroy(gameObject, .5f);
+        if (!isLocked)
+        {
+            print("!fail!");
+            orginObj.GetComponent<QTE_Manager>().deathAnimator.SetBool("isDead", true);
+            isLocked = true;
+            isFail = true;
+            qteController.SetInteger("isWin", -1);
+            Destroy(gameObject, 1.2f);
+        }
     }
 }
