@@ -33,6 +33,10 @@ public class ChangeScene : MonoBehaviour
 
         if(time > targetTime && isSceneChange)
         {
+            if(sceneIndex == 0)
+            {
+                Destroy(GameObject.Find("Cinema"));
+            }
             SceneManager.LoadScene(sceneIndex);
             //SceneManager.LoadSceneAsync(newScene, LoadSceneMode.Additive)
         }

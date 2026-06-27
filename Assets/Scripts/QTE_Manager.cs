@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class QTE_Manager : MonoBehaviour
 {
@@ -38,18 +39,28 @@ public class QTE_Manager : MonoBehaviour
     private float spawnDuration;
     private float spawnStrength;
 
+    public bool reset;
+
     void Start()
     {
         time = 0f;
         spawnIndex = 0;
         currentKey = "-";
         spawnData = QTEData(spawnIndex);
+        reset = false;
 
     }
 
     void Update()
     { 
         
+        if (reset)
+        {
+            //return to title
+            Destroy(GameObject.Find("Cinema"));
+            SceneManager.LoadScene(0);
+        }
+
         currentKey = checkKey();
         if (float.TryParse(spawnData[0], out targetTime) && spawnIndex < QTEList.Count) 
         {

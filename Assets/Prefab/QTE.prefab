@@ -296,7 +296,7 @@ MonoBehaviour:
   typeD: {fileID: 4313501347480536470, guid: f321228d78a5229499d95b46d9e529bc, type: 3}
   typeW: {fileID: 7753192562862100269, guid: 6bac12f7113a8e540bdc1d7993136c85, type: 3}
   typeS: {fileID: 6861851060128871100, guid: 6e1f34a7c3e0f674aa649398f608274b, type: 3}
-  typeE: {fileID: -506966540291480634, guid: cf611974ef5bb1c49b0b3c9e38cde1c2, type: 3}
+  typeE: {fileID: 5125698988697514276, guid: 52aa8a7802ed4074bb1da50d6080424c, type: 3}
   outerRing: {fileID: 3107621337715762561}
   innerRing: {fileID: 2198255465631534784}
   qteController: {fileID: 5926138828610199832}

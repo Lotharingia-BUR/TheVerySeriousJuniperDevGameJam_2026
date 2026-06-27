@@ -10,7 +10,7 @@ public class Credits_Toggle : MonoBehaviour
     void Start()
     {
         creditsButton.onClick.AddListener(toggleCredits);
-        isOn = false;
+        isOn = true;
     }
 
     void toggleCredits()
