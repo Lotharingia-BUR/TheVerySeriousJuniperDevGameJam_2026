@@ -634,7 +634,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ChangeScene
   time: 0
-  targetTime: 18
+  targetTime: 19.5
   sceneButton: {fileID: 2077170072}
   sceneAnimator: {fileID: 456159024}
   UIAnimator: {fileID: 1970482914}
@@ -1738,6 +1738,7 @@ GameObject:
   - component: {fileID: 1970482911}
   - component: {fileID: 1970482910}
   - component: {fileID: 1970482914}
+  - component: {fileID: 1970482915}
   m_Layer: 5
   m_Name: UILayer
   m_TagString: Untagged
@@ -1851,6 +1852,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1970482915
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1970482909}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca76aeda252020e4c84ba84d9f36f7ae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Quit
+  quitButton: {fileID: 895859324}
 --- !u!1 &2077170070
 GameObject:
   m_ObjectHideFlags: 0

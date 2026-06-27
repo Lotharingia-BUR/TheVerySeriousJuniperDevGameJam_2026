@@ -208,7 +208,7 @@ SpriteRenderer:
   m_Size: {x: 21.12, y: 12.72}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
 --- !u!1 &169882642
 GameObject:
@@ -510,7 +510,7 @@ MonoBehaviour:
   currentKey: 
   time: 0
   QTEList:
-  - 10,5,2,D,2,0.5
+  - 10,4,2,D,2,0.5
   - 14,0,3,E,0.8
   - 15,3,0.2,W,0.6
   - 18.5,4,-0.35,D,0.6
@@ -522,13 +522,14 @@ MonoBehaviour:
   - 30.5,2,0,D,0.75
   - 32,3,0,E,0.75
   - 35,-4,-2,A,1
-  - 38,3,-2,S,3.25,0.35
+  - 38,4.5,-2,S,3.25,0.35
   - 47,2,-3,S,1
   spawnData: []
   QTEObject: {fileID: 3679601731916652512, guid: 6792ce47ca886154a8575d7830313a4e, type: 3}
   QTEMashObject: {fileID: 3679601731916652512, guid: c812515a22a28fa46905c0c03fc94ccd, type: 3}
   deathAnimator: {fileID: 775068061}
   bgMusic: {fileID: 298287262}
+  reset: 0
 --- !u!95 &298287261
 Animator:
   serializedVersion: 7
@@ -1295,7 +1296,7 @@ SpriteRenderer:
   m_Size: {x: 19.2, y: 10.8}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1010134230
 GameObject:
@@ -1530,7 +1531,7 @@ SpriteRenderer:
   m_Size: {x: 21.127787, y: 12.72}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
 --- !u!1 &1963388597
 GameObject:
